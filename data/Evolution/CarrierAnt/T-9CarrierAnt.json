@@ -1,0 +1,37 @@
+{
+  "name": "T-9CarrierAnt",
+  "levels": [
+    {
+      "rss": [0, 0, 0, 21000000, 43000000, 2400000],
+      "power": 58981,
+      "time": 1519140,
+      "extra": [{ "name": "CreatureRemains", "amount": 17500 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 24
+        },
+        {
+          "domain": "Building",
+          "type": "Combat",
+          "name": "CarrierAntNest",
+          "level": 25
+        },
+        {
+          "domain": "Evolution",
+          "type": "CarrierAnt",
+          "name": "FieldBattle",
+          "level": 20
+        },
+        {
+          "domain": "Evolution",
+          "type": "CarrierAnt",
+          "name": "SturdyBody",
+          "level": 20
+        }
+      ]
+    }
+  ]
+}

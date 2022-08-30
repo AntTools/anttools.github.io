@@ -1,0 +1,38 @@
+{
+  "name": "SturdyBody",
+  "levels": [
+    {
+      "rss": [0, 600000, 0, 0, 660000, 400000],
+      "power": 1766,
+      "time": 31740,
+      "extra": [{ "name": "CreatureRemains", "amount": 600 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 20
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

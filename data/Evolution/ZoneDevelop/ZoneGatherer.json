@@ -1,0 +1,65 @@
+{
+  "name": "ZoneGatherer",
+  "levels": [
+    {
+      "rss": [0, 51000, 0, 27000, 0, 12000],
+      "power": 195,
+      "time": 2940,
+      "extra": [{ "name": "CreatureRemains", "amount": 70 }]
+    },
+    {
+      "rss": [0, 61000, 0, 32000, 0, 14000],
+      "power": 401,
+      "time": 3540,
+      "extra": [{ "name": "CreatureRemains", "amount": 70 }]
+    },
+    {
+      "rss": [0, 73000, 0, 38000, 0, 16000],
+      "power": 658,
+      "time": 4260,
+      "extra": [{ "name": "CreatureRemains", "amount": 90 }]
+    },
+    {
+      "rss": [0, 95000, 0, 50000, 0, 20000],
+      "power": 970,
+      "time": 5100,
+      "extra": [{ "name": "CreatureRemains", "amount": 110 }]
+    },
+    {
+      "rss": [0, 120000, 0, 65000, 0, 24000],
+      "power": 1349,
+      "time": 6600,
+      "extra": [{ "name": "CreatureRemains", "amount": 130 }]
+    },
+    {
+      "rss": [0, 170000, 0, 90000, 0, 31000],
+      "power": 1842,
+      "time": 8580,
+      "extra": [{ "name": "CreatureRemains", "amount": 170 }]
+    },
+    {
+      "rss": [0, 260000, 0, 140000, 0, 43000],
+      "power": 2503,
+      "time": 11220,
+      "extra": [{ "name": "CreatureRemains", "amount": 230 }]
+    },
+    {
+      "rss": [0, 420000, 0, 220000, 0, 64000],
+      "power": 3483,
+      "time": 14520,
+      "extra": [{ "name": "CreatureRemains", "amount": 350 }]
+    },
+    {
+      "rss": [0, 710000, 0, 370000, 0, 96000],
+      "power": 4941,
+      "time": 20340,
+      "extra": [{ "name": "CreatureRemains", "amount": 530 }]
+    },
+    {
+      "rss": [0, 1300000, 0, 660000, 0, 140000],
+      "power": 7085,
+      "time": 28500,
+      "extra": [{ "name": "CreatureRemains", "amount": 790 }]
+    }
+  ]
+}

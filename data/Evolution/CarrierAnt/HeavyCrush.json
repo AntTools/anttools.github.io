@@ -1,0 +1,27 @@
+{
+  "name": "HeavyCrush",
+  "levels": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "rss": [0, 790000, 0, 0, 920000, 160000],
+      "power": 2285,
+      "time": 50640,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 7
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null
+  ]
+}

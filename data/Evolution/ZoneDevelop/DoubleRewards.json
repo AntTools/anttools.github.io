@@ -1,0 +1,11 @@
+{
+  "name": "DoubleRewards",
+  "levels": [
+    {
+      "rss": [0, 7100000, 0, 3400000, 6100000, 1000000],
+      "power": 8688,
+      "time": 232500,
+      "extra": [{ "name": "CreatureRemains", "amount": 2540 }]
+    }
+  ]
+}

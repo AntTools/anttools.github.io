@@ -1,0 +1,33 @@
+{
+  "name": "PrecisionHatch",
+  "levels": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "rss": [0, 5000000, 0, 3300000, 0, 840000],
+      "power": 21140,
+      "time": 260700,
+      "extra": [{ "name": "CreatureRemains", "amount": 620 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 15
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "TierSuperiorityII",
+  "levels": [
+    {
+      "rss": [19000, 0, 0, 15200, 15200, 11000],
+      "power": 163,
+      "time": 4500,
+      "extra": [{ "name": "CreatureRemains", "amount": 600 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 13
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "GuardianAntCooperativeDefense",
+          "level": 5
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "ShooterAntCooperativeDefense",
+          "level": 5
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "CarrierAntCooperativeDefense",
+          "level": 5
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "rss": [221500, 0, 0, 177200, 177200, 118000],
+      "power": 14872,
+      "time": 107700,
+      "extra": [{ "name": "CreatureRemains", "amount": 1680 }]
+    },
+    null,
+    null,
+    null,
+    null
+  ]
+}

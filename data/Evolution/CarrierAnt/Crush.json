@@ -1,0 +1,15 @@
+{
+  "name": "Crush",
+  "levels": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    { "rss": [0, 160000, 0, 0, 230000, 31000], "power": 571, "time": 12600 },
+    null,
+    null,
+    null,
+    null
+  ]
+}

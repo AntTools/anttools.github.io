@@ -1,0 +1,151 @@
+{
+  "name": "ToxicFungi",
+  "levels": [
+    { "rss": [0, 0, 0, 0, 0, 0], "time": 0, "power": 0 },
+    { "rss": [0, 30, 0, 60, 0, 0], "time": 0, "power": 51 },
+    {
+      "rss": [0, 280, 220, 540, 0, 520],
+      "time": 120,
+      "power": 53,
+      "extra": [{ "name": "ToxicMushroom", "amount": 1 }]
+    },
+    {
+      "rss": [0, 700, 0, 1400, 0, 780],
+      "time": 240,
+      "power": 56,
+      "extra": [{ "name": "ToxicMushroom", "amount": 2 }]
+    },
+    {
+      "rss": [0, 1000, 0, 2000, 0, 1200],
+      "time": 360,
+      "power": 60,
+      "extra": [{ "name": "ToxicMushroom", "amount": 7 }]
+    },
+    {
+      "rss": [0, 1600, 0, 3200, 0, 1800],
+      "time": 530,
+      "power": 64,
+      "extra": [{ "name": "ToxicMushroom", "amount": 16 }]
+    },
+    {
+      "rss": [0, 2200, 0, 4400, 0, 2600],
+      "time": 1060,
+      "power": 69,
+      "extra": [{ "name": "ToxicMushroom", "amount": 29 }]
+    },
+    {
+      "rss": [0, 3000, 0, 6200, 0, 4200],
+      "time": 2110,
+      "power": 83,
+      "extra": [{ "name": "ToxicMushroom", "amount": 46 }]
+    },
+    {
+      "rss": [0, 4400, 0, 8600, 0, 7400],
+      "time": 4230,
+      "power": 112,
+      "extra": [{ "name": "ToxicMushroom", "amount": 67 }]
+    },
+    {
+      "rss": [0, 6000, 0, 12000, 0, 14000],
+      "time": 5900,
+      "power": 147,
+      "extra": [{ "name": "ToxicMushroom", "amount": 92 }]
+    },
+    {
+      "rss": [0, 8400, 0, 16000, 0, 22000],
+      "time": 7670,
+      "power": 197,
+      "extra": [{ "name": "ToxicMushroom", "amount": 121 }]
+    },
+    {
+      "rss": [0, 12000, 0, 24000, 0, 36000],
+      "time": 9970,
+      "power": 261,
+      "extra": [{ "name": "ToxicMushroom", "amount": 155 }]
+    },
+    {
+      "rss": [0, 20000, 0, 40000, 0, 52000],
+      "time": 12960,
+      "power": 336,
+      "extra": [{ "name": "ToxicMushroom", "amount": 194 }]
+    },
+    {
+      "rss": [0, 34000, 0, 66000, 0, 72000],
+      "time": 16850,
+      "power": 449,
+      "extra": [{ "name": "ToxicMushroom", "amount": 238 }]
+    },
+    {
+      "rss": [0, 54000, 0, 100000, 0, 100000],
+      "time": 21900,
+      "power": 587,
+      "extra": [{ "name": "ToxicMushroom", "amount": 287 }]
+    },
+    {
+      "rss": [0, 90000, 0, 180000, 0, 140000],
+      "time": 30660,
+      "power": 783,
+      "extra": [{ "name": "ToxicMushroom", "amount": 341 }]
+    },
+    {
+      "rss": [0, 160000, 0, 340000, 0, 200000],
+      "time": 42920,
+      "power": 1037,
+      "extra": [{ "name": "ToxicMushroom", "amount": 400 }]
+    },
+    {
+      "rss": [0, 300000, 0, 560000, 0, 320000],
+      "time": 60080,
+      "power": 1436,
+      "extra": [{ "name": "ToxicMushroom", "amount": 464 }]
+    },
+    {
+      "rss": [0, 520000, 0, 1000000, 0, 560000],
+      "time": 84109,
+      "power": 1929,
+      "extra": [{ "name": "ToxicMushroom", "amount": 533 }]
+    },
+    {
+      "rss": [0, 860000, 0, 1800000, 0, 940000],
+      "time": 117760,
+      "power": 2700,
+      "extra": [{ "name": "ToxicMushroom", "amount": 607 }]
+    },
+    {
+      "rss": [0, 1400000, 0, 3000000, 0, 1600000],
+      "time": 164860,
+      "power": 3744,
+      "extra": [{ "name": "ToxicMushroom", "amount": 686 }]
+    },
+    {
+      "rss": [0, 2400000, 0, 4600000, 0, 2200000],
+      "time": 214320,
+      "power": 5094,
+      "extra": [{ "name": "ToxicMushroom", "amount": 771 }]
+    },
+    {
+      "rss": [0, 3600000, 0, 7000000, 0, 2600000],
+      "time": 278610,
+      "power": 6760,
+      "extra": [{ "name": "ToxicMushroom", "amount": 862 }]
+    },
+    {
+      "rss": [0, 4800000, 0, 9600000, 0, 3000000],
+      "time": 362190,
+      "power": 8976,
+      "extra": [{ "name": "ToxicMushroom", "amount": 959 }]
+    },
+    {
+      "rss": [0, 6200000, 0, 12000000, 0, 3600000],
+      "time": 507070,
+      "power": 12084,
+      "extra": [{ "name": "ToxicMushroom", "amount": 1062 }]
+    },
+    {
+      "rss": [0, 7400000, 0, 16000000, 0, 4200000],
+      "time": 709890,
+      "power": 16858,
+      "extra": [{ "name": "ToxicMushroom", "amount": 1171 }]
+    }
+  ]
+}

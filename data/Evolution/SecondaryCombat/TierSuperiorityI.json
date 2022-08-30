@@ -1,0 +1,45 @@
+{
+  "name": "TierSuperiorityI",
+  "levels": [
+    {
+      "rss": [12000, 0, 0, 9600, 9600, 6500],
+      "power": 122,
+      "time": 600,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 5
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "BigBite",
+          "level": 3
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "AcidSpray",
+          "level": 3
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "HeavyCrush",
+          "level": 3
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

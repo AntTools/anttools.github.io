@@ -1,0 +1,33 @@
+{
+  "name": "Saprophyte",
+  "levels": [
+    {
+      "rss": [3200, 0, 0, 0, 1800, 3000],
+      "power": 7,
+      "time": 600,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 2
+        },
+        {
+          "domain": "Evolution",
+          "type": "HillDevelop",
+          "name": "Feeder",
+          "level": 1
+        }
+      ]
+    },
+    { "rss": [3800, 0, 0, 0, 2400, 3200], "power": 15, "time": 660 },
+    { "rss": [4600, 0, 0, 0, 2800, 3800], "power": 24, "time": 840 },
+    { "rss": [6400, 0, 0, 0, 3800, 4600], "power": 36, "time": 960 },
+    { "rss": [8400, 0, 0, 0, 4400, 5600], "power": 51, "time": 1260 },
+    { "rss": [12000, 0, 0, 0, 6200, 7000], "power": 69, "time": 1620 },
+    { "rss": [18000, 0, 0, 0, 9400, 10000], "power": 92, "time": 2280 },
+    { "rss": [28000, 0, 0, 0, 16000, 14000], "power": 126, "time": 2880 },
+    { "rss": [48000, 0, 0, 0, 28000, 24000], "power": 169, "time": 3780 },
+    { "rss": [76000, 0, 0, 0, 46000, 36000], "power": 231, "time": 5160 }
+  ]
+}

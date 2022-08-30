@@ -1,0 +1,43 @@
+{
+  "name": "DuelMasterI",
+  "levels": [
+    {
+      "rss": [21500, 21500, 0, 17200, 0, 12500],
+      "power": 184,
+      "time": 5100,
+      "extra": [{ "name": "CreatureRemains", "amount": 600 }],
+      "req": [
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "TierSuperiorityII",
+          "level": 10
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "rss": [249500, 249500, 0, 199600, 0, 132500],
+      "power": 16731,
+      "time": 121200,
+      "extra": [{ "name": "CreatureRemains", "amount": 1860 }]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

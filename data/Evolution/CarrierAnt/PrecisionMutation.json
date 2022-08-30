@@ -1,0 +1,33 @@
+{
+  "name": "PrecisionMutation",
+  "levels": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "rss": [0, 5000000, 0, 3300000, 6600000, 840000],
+      "power": 21140,
+      "time": 266880,
+      "extra": [{ "name": "CreatureRemains", "amount": 620 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 15
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null
+  ]
+}

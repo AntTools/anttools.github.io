@@ -1,0 +1,125 @@
+{
+  "name": "CarrierAntCooperativeCombat",
+  "levels": [
+    {
+      "rss": [297300, 0, 0, 0, 89500, 55100],
+      "power": 586,
+      "time": 31500,
+      "extra": [{ "name": "CreatureRemains", "amount": 260 }]
+    },
+    {
+      "rss": [327800, 0, 0, 0, 98600, 61600],
+      "power": 724,
+      "time": 37320,
+      "extra": [{ "name": "CreatureRemains", "amount": 270 }]
+    },
+    {
+      "rss": [365900, 0, 0, 0, 110100, 66400],
+      "power": 894,
+      "time": 43200,
+      "extra": [{ "name": "CreatureRemains", "amount": 290 }]
+    },
+    {
+      "rss": [404000, 0, 0, 0, 121600, 72900],
+      "power": 1104,
+      "time": 49140,
+      "extra": [{ "name": "CreatureRemains", "amount": 300 }]
+    },
+    {
+      "rss": [442200, 0, 0, 0, 133100, 79400],
+      "power": 1363,
+      "time": 55020,
+      "extra": [{ "name": "CreatureRemains", "amount": 320 }]
+    },
+    {
+      "rss": [526000, 0, 0, 0, 158000, 95600],
+      "power": 1683,
+      "time": 61020,
+      "extra": [{ "name": "CreatureRemains", "amount": 350 }]
+    },
+    {
+      "rss": [633000, 0, 0, 0, 190000, 115000],
+      "power": 2079,
+      "time": 66960,
+      "extra": [{ "name": "CreatureRemains", "amount": 380 }]
+    },
+    {
+      "rss": [755000, 0, 0, 0, 227000, 138000],
+      "power": 2657,
+      "time": 72960,
+      "extra": [{ "name": "CreatureRemains", "amount": 420 }]
+    },
+    {
+      "rss": [907000, 0, 0, 0, 273000, 167000],
+      "power": 3170,
+      "time": 78960,
+      "extra": [{ "name": "CreatureRemains", "amount": 460 }]
+    },
+    {
+      "rss": [1067000, 0, 0, 0, 321000, 199000],
+      "power": 3914,
+      "time": 85020,
+      "extra": [{ "name": "CreatureRemains", "amount": 510 }]
+    },
+    {
+      "rss": [1372000, 0, 0, 0, 413000, 243000],
+      "power": 4833,
+      "time": 91080,
+      "extra": [{ "name": "CreatureRemains", "amount": 560 }]
+    },
+    {
+      "rss": [1753000, 0, 0, 0, 528000, 308000],
+      "power": 5968,
+      "time": 97200,
+      "extra": [{ "name": "CreatureRemains", "amount": 670 }]
+    },
+    {
+      "rss": [2211000, 0, 0, 0, 665000, 405000],
+      "power": 7369,
+      "time": 103320,
+      "extra": [{ "name": "CreatureRemains", "amount": 810 }]
+    },
+    {
+      "rss": [2897000, 0, 0, 0, 872000, 535000],
+      "power": 9099,
+      "time": 109440,
+      "extra": [{ "name": "CreatureRemains", "amount": 970 }]
+    },
+    {
+      "rss": [3736000, 0, 0, 0, 1124000, 697000],
+      "power": 11236,
+      "time": 115620,
+      "extra": [{ "name": "CreatureRemains", "amount": 1160 }]
+    },
+    {
+      "rss": [4880000, 0, 0, 0, 1470000, 891000],
+      "power": 13874,
+      "time": 121800,
+      "extra": [{ "name": "CreatureRemains", "amount": 1390 }]
+    },
+    {
+      "rss": [6330000, 0, 0, 0, 1900000, 1150000],
+      "power": 17131,
+      "time": 127980,
+      "extra": [{ "name": "CreatureRemains", "amount": 1810 }]
+    },
+    {
+      "rss": [8840000, 0, 0, 0, 2660000, 1600000],
+      "power": 21154,
+      "time": 134220,
+      "extra": [{ "name": "CreatureRemains", "amount": 2350 }]
+    },
+    {
+      "rss": [13340000, 0, 0, 0, 4010000, 2430000],
+      "power": 26121,
+      "time": 140460,
+      "extra": [{ "name": "CreatureRemains", "amount": 3060 }]
+    },
+    {
+      "rss": [20960000, 0, 0, 0, 6310000, 3890000],
+      "power": 32254,
+      "time": 146760,
+      "extra": [{ "name": "CreatureRemains", "amount": 3980 }]
+    }
+  ]
+}

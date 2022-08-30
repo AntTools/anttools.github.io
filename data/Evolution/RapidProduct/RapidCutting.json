@@ -1,0 +1,18 @@
+{
+  "levels": [
+    {
+      "rss": [0, 0, 0, 0, 0, 800],
+      "power": 3,
+      "time": 170,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "name": "RapidCutting"
+}

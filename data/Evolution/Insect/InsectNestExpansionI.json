@@ -1,0 +1,11 @@
+{
+  "name": "InsectNestExpansionI",
+  "levels": [
+    {
+      "rss": [530000, 0, 0, 350000, 0, 45000],
+      "power": 345,
+      "time": 9720,
+      "extra": [{ "name": "InsectFodder", "amount": 120 }]
+    }
+  ]
+}

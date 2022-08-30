@@ -1,0 +1,331 @@
+{
+  "name": "MutationPool",
+  "levels": [
+    { "rss": [0, 0, 0, 0, 0, 0], "time": 0, "power": 0 },
+    {
+      "rss": [28000, 0, 0, 6200, 0, 6000],
+      "time": 0,
+      "power": 26,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 1,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [34000, 0, 0, 7600, 0, 16000],
+      "time": 2040,
+      "power": 28,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 2,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [38000, 0, 0, 8400, 0, 20000],
+      "time": 5460,
+      "power": 31,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 3,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [48000, 0, 0, 10000, 0, 28000],
+      "time": 8190,
+      "power": 37,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 4,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [54000, 0, 0, 12000, 0, 36000],
+      "time": 9830,
+      "power": 46,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 5,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [62000, 0, 0, 14000, 0, 50000],
+      "time": 10530,
+      "power": 66,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 6,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [88000, 0, 0, 20000, 0, 70000],
+      "time": 11840,
+      "power": 99,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 7,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [120000, 0, 0, 28000, 0, 100000],
+      "time": 16850,
+      "power": 166,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 8,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [180000, 0, 0, 38000, 0, 120000],
+      "time": 15730,
+      "power": 269,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 9,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [240000, 0, 0, 54000, 0, 220000],
+      "time": 15330,
+      "power": 384,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 10,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [400000, 0, 0, 94000, 0, 320000],
+      "time": 16610,
+      "power": 556,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 11,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [680000, 0, 0, 140000, 0, 420000],
+      "time": 17280,
+      "power": 757,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 12,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [1000000, 0, 0, 240000, 0, 620000],
+      "time": 22460,
+      "power": 1027,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 13,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [1800000, 0, 0, 400000, 0, 840000],
+      "time": 29200,
+      "power": 1404,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 14,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [3200000, 0, 0, 760000, 0, 1200000],
+      "time": 40870,
+      "power": 1903,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 15,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [5800000, 0, 0, 1400000, 0, 1800000],
+      "time": 57220,
+      "power": 2566,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 16,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [10000000, 0, 0, 2400000, 0, 3200000],
+      "time": 80110,
+      "power": 3540,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 17,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [18000000, 0, 0, 3800000, 0, 5600000],
+      "time": 112150,
+      "power": 4866,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 18,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [30000000, 0, 0, 6800000, 0, 9200000],
+      "time": 157010,
+      "power": 6788,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 19,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [50000000, 0, 0, 12000000, 0, 12000000],
+      "time": 219810,
+      "power": 9646,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 20,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [74000000, 0, 0, 16000000, 0, 12000000],
+      "time": 285750,
+      "power": 12922,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 21,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [98000000, 0, 0, 22000000, 0, 18000000],
+      "time": 371480,
+      "power": 17315,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 22,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [140000000, 0, 0, 28000000, 0, 20000000],
+      "time": 482920,
+      "power": 23573,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 23,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [140000000, 0, 0, 34000000, 0, 24000000],
+      "time": 676090,
+      "power": 31836,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 24,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [140000000, 0, 0, 34000000, 0, 26000000],
+      "time": 946520,
+      "power": 43658,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 25,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    }
+  ]
+}

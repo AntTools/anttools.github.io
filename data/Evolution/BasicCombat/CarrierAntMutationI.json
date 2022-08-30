@@ -1,0 +1,6 @@
+{
+  "name": "CarrierAntMutationI",
+  "levels": [
+    { "rss": [0, 5000, 0, 3600, 7600, 800], "power": 12, "time": 1080 }
+  ]
+}

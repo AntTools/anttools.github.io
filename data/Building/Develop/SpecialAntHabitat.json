@@ -1,0 +1,355 @@
+{
+  "name": "SpecialAntHabitat",
+  "levels": [
+    { "rss": [0, 0, 0, 0, 0, 0], "time": 0, "power": 0 },
+    {
+      "rss": [0, 0, 2600, 0, 3800, 0],
+      "time": 0,
+      "power": 25,
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 1,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 3800, 0, 18000, 6200],
+      "time": 2040,
+      "power": 26,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 5 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 2,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 5800, 0, 22000, 16000],
+      "time": 5460,
+      "power": 32,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 10 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 3,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 8600, 0, 26000, 20000],
+      "time": 8190,
+      "power": 38,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 30 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 4,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 12000, 0, 32000, 28000],
+      "time": 10530,
+      "power": 46,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 50 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 5,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 20000, 0, 36000, 36000],
+      "time": 14040,
+      "power": 62,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 100 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 6,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 30000, 0, 38000, 50000],
+      "time": 16850,
+      "power": 91,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 300 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 7,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 44000, 0, 52000, 72000],
+      "time": 19660,
+      "power": 157,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 500 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 8,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 68000, 0, 76000, 100000],
+      "time": 20450,
+      "power": 244,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 700 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 9,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 100000, 0, 100000, 140000],
+      "time": 21470,
+      "power": 348,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 900 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 10,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 160000, 0, 140000, 240000],
+      "time": 23260,
+      "power": 502,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1000 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 11,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 220000, 0, 240000, 360000],
+      "time": 30229,
+      "power": 692,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1100 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 12,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 340000, 0, 380000, 500000],
+      "time": 39300,
+      "power": 938,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1100 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 13,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 480000, 0, 600000, 720000],
+      "time": 51090,
+      "power": 1237,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1100 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 14,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 740000, 0, 1000000, 960000],
+      "time": 71530,
+      "power": 1679,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1200 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 15,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 1000000, 0, 2000000, 1200000],
+      "time": 100140,
+      "power": 2344,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1200 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 16,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 1600000, 0, 3400000, 2000000],
+      "time": 140190,
+      "power": 3228,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1200 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 17,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 2600000, 0, 6200000, 3800000],
+      "time": 196485,
+      "power": 4370,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1200 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 18,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 3400000, 0, 12000000, 6800000],
+      "time": 274760,
+      "power": 6207,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1200 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 19,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 4800000, 0, 18000000, 12000000],
+      "time": 384670,
+      "power": 8453,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1300 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 20,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 6600000, 0, 28000000, 14000000],
+      "time": 500060,
+      "power": 11585,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1300 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 21,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 8400000, 0, 42000000, 18000000],
+      "time": 650080,
+      "power": 15834,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1300 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 22,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 12000000, 0, 56000000, 22000000],
+      "time": 845110,
+      "power": 20829,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1300 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 23,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 12000000, 0, 72000000, 24000000],
+      "time": 1183150,
+      "power": 28593,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1500 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 24,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 0, 14000000, 0, 90000000, 28000000],
+      "time": 1656400,
+      "power": 38557,
+      "extra": [{ "name": "GlimmeryLeaf", "amount": 1500 }],
+      "req": [
+        {
+          "name": "SpecialNest",
+          "level": 25,
+          "domain": "Building",
+          "type": "Develop"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "T-9GuardianAnt",
+  "levels": [
+    {
+      "rss": [0, 30000000, 0, 24000000, 48000000, 3200000],
+      "power": 58312,
+      "time": 1560480,
+      "extra": [{ "name": "CreatureRemains", "amount": 17500 }]
+    }
+  ]
+}

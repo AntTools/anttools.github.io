@@ -1,0 +1,319 @@
+{
+  "name": "FeedingGround",
+  "levels": [
+    { "rss": [0, 0, 0, 0, 0, 0], "time": 0, "power": 0 },
+    { "rss": [60, 0, 140, 0, 0, 0], "time": 0, "power": 52 },
+    {
+      "rss": [120, 0, 200, 0, 0, 0],
+      "time": 5,
+      "power": 54,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 2,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [160, 0, 0, 280, 0, 320],
+      "time": 40,
+      "power": 57,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 3,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [680, 0, 0, 1600, 700, 0],
+      "time": 190,
+      "power": 61,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 4,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [1400, 0, 0, 2400, 0, 1000],
+      "time": 360,
+      "power": 66,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 5,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [4000, 0, 0, 3400, 0, 2000],
+      "time": 1060,
+      "power": 75,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 6,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [9200, 0, 0, 16000, 0, 6400],
+      "time": 2810,
+      "power": 91,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 7,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [14000, 0, 0, 22000, 0, 30000],
+      "time": 5620,
+      "power": 129,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 8,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [20000, 0, 0, 32000, 0, 54000],
+      "time": 7870,
+      "power": 176,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 9,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [26000, 0, 0, 44000, 0, 96000],
+      "time": 10230,
+      "power": 245,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 10,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [36000, 0, 0, 62000, 0, 160000],
+      "time": 13290,
+      "power": 330,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 11,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [62000, 0, 0, 100000, 0, 220000],
+      "time": 17280,
+      "power": 437,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 12,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [100000, 0, 0, 160000, 0, 320000],
+      "time": 22460,
+      "power": 571,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 13,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [160000, 0, 0, 260000, 0, 420000],
+      "time": 29199,
+      "power": 754,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 14,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [280000, 0, 0, 460000, 0, 600000],
+      "time": 40869,
+      "power": 1025,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 15,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [500000, 0, 0, 800000, 0, 840000],
+      "time": 57220,
+      "power": 1385,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 16,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [900000, 0, 0, 1600000, 0, 1200000],
+      "time": 80110,
+      "power": 1897,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 17,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [1600000, 0, 0, 2600000, 0, 2400000],
+      "time": 112150,
+      "power": 2548,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 18,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [2600000, 0, 0, 4400000, 0, 3800000],
+      "time": 157010,
+      "power": 3594,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 19,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [4400000, 0, 0, 7600000, 0, 6800000],
+      "time": 219810,
+      "power": 4876,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 20,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [7200000, 0, 0, 12000000, 0, 8800000],
+      "time": 285750,
+      "power": 6658,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 21,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [12000000, 0, 0, 18000000, 0, 12000000],
+      "time": 371480,
+      "power": 8939,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 22,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [16000000, 0, 0, 24000000, 0, 14000000],
+      "time": 482920,
+      "power": 11951,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 23,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [20000000, 0, 0, 32000000, 0, 16000000],
+      "time": 676090,
+      "power": 16461,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 24,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [22000000, 0, 0, 38000000, 0, 18000000],
+      "time": 946520,
+      "power": 22079,
+      "req": [
+        {
+          "name": "WorkerAntNest",
+          "level": 25,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "GuardianAntCooperativeDefense",
+  "levels": [
+    {
+      "rss": [0, 14000, 0, 11200, 0, 8000],
+      "power": 143,
+      "time": 900,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 10
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "BattleDetermination",
+          "level": 5
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

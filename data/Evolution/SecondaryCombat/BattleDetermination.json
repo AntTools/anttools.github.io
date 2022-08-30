@@ -1,0 +1,27 @@
+{
+  "name": "BattleDetermination",
+  "levels": [
+    {
+      "rss": [12500, 12500, 0, 10000, 0, 7000],
+      "power": 128,
+      "time": 900,
+      "req": [
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "TierSuperiorityI",
+          "level": 5
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

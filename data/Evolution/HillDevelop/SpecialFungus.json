@@ -1,0 +1,33 @@
+{
+  "name": "SpecialFungus",
+  "levels": [
+    {
+      "rss": [3400, 0, 0, 0, 2000, 3000],
+      "power": 7,
+      "time": 600,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 2
+        },
+        {
+          "domain": "Evolution",
+          "type": "HillDevelop",
+          "name": "EarthySpring",
+          "level": 1
+        }
+      ]
+    },
+    { "rss": [4000, 0, 0, 0, 2400, 3400], "power": 15, "time": 660 },
+    { "rss": [4800, 0, 0, 0, 2800, 3800], "power": 24, "time": 780 },
+    { "rss": [6000, 0, 0, 0, 3800, 4800], "power": 36, "time": 960 },
+    { "rss": [8400, 0, 0, 0, 4400, 5600], "power": 51, "time": 1200 },
+    { "rss": [10000, 0, 0, 0, 6800, 7600], "power": 69, "time": 1610 },
+    { "rss": [18000, 0, 0, 0, 9400, 10000], "power": 92, "time": 2280 },
+    { "rss": [28000, 0, 0, 0, 16000, 16000], "power": 126, "time": 2820 },
+    { "rss": [44000, 0, 0, 0, 26000, 22000], "power": 169, "time": 3780 },
+    { "rss": [76000, 0, 0, 0, 50000, 34000], "power": 231, "time": 5100 }
+  ]
+}

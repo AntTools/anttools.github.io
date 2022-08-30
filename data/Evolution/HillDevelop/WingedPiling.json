@@ -1,0 +1,33 @@
+{
+  "name": "WingedPiling",
+  "levels": [
+    {
+      "rss": [5000, 3800, 0, 0, 0, 4600],
+      "power": 12,
+      "time": 1080,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 5
+        },
+        {
+          "domain": "Evolution",
+          "type": "HillDevelop",
+          "name": "AgileClimbing",
+          "level": 1
+        }
+      ]
+    },
+    { "rss": [5800, 4600, 0, 0, 0, 5000], "power": 28, "time": 1380 },
+    { "rss": [7000, 5400, 0, 0, 0, 6000], "power": 49, "time": 1620 },
+    { "rss": [9800, 7000, 0, 0, 0, 7400], "power": 72, "time": 2040 },
+    { "rss": [12000, 9800, 0, 0, 0, 8400], "power": 99, "time": 2460 },
+    { "rss": [18000, 14000, 0, 0, 0, 12000], "power": 139, "time": 3240 },
+    { "rss": [24000, 20000, 0, 0, 0, 14000], "power": 186, "time": 4260 },
+    { "rss": [42000, 32000, 0, 0, 0, 22000], "power": 250, "time": 5460 },
+    { "rss": [66000, 50000, 0, 0, 0, 34000], "power": 341, "time": 7140 },
+    { "rss": [120000, 102000, 0, 0, 0, 54000], "power": 465, "time": 9960 }
+  ]
+}

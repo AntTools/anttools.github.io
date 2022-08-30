@@ -1,0 +1,61 @@
+{
+  "name": "TierSuperiorityIII",
+  "levels": [
+    {
+      "rss": [26500, 0, 0, 21200, 21200, 15000],
+      "power": 224,
+      "time": 6000,
+      "extra": [{ "name": "CreatureRemains", "amount": 780 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 19
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "GuardianAntCooperativeAttack",
+          "level": 5
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "ShooterAntCooperativeAttack",
+          "level": 5
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "CarrierAntCooperativeAttack",
+          "level": 5
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "rss": [305000, 0, 0, 244000, 244000, 162000],
+      "power": 20448,
+      "time": 148200,
+      "extra": [{ "name": "CreatureRemains", "amount": 2280 }]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ]
+}

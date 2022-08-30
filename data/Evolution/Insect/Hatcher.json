@@ -1,0 +1,11 @@
+{
+  "name": "Hatcher",
+  "levels": [
+    {
+      "rss": [0, 7400000, 0, 0, 3600000, 630000],
+      "power": 7876,
+      "time": 614520,
+      "extra": [{ "name": "InsectFodder", "amount": 2280 }]
+    }
+  ]
+}

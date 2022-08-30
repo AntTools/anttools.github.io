@@ -1,0 +1,10 @@
+{
+  "name": "HealingPoolExpansion",
+  "levels": [
+    {
+      "rss": [280000, 460000, 0, 0, 460000, 64000],
+      "power": 390,
+      "time": 31260
+    }
+  ]
+}

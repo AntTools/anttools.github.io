@@ -1,0 +1,33 @@
+{
+  "name": "MassButchering",
+  "levels": [
+    {
+      "rss": [5000, 0, 0, 0, 2800, 4600],
+      "power": 12,
+      "time": 1140,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 3
+        },
+        {
+          "domain": "Evolution",
+          "type": "HillDevelop",
+          "name": "GiantAphid",
+          "level": 5
+        }
+      ]
+    },
+    { "rss": [5800, 0, 0, 0, 3400, 4800], "power": 28, "time": 1320 },
+    { "rss": [7400, 0, 0, 0, 4000, 5800], "power": 49, "time": 1560 },
+    { "rss": [9800, 0, 0, 0, 5600, 6800], "power": 72, "time": 2040 },
+    { "rss": [12000, 0, 0, 0, 6800, 8600], "power": 99, "time": 2640 },
+    { "rss": [16000, 0, 0, 0, 9400, 12000], "power": 139, "time": 3360 },
+    { "rss": [26000, 0, 0, 0, 16000, 14000], "power": 186, "time": 4260 },
+    { "rss": [44000, 0, 0, 0, 22000, 24000], "power": 250, "time": 5400 },
+    { "rss": [74000, 0, 0, 0, 38000, 36000], "power": 341, "time": 7140 },
+    { "rss": [120000, 0, 0, 0, 76000, 54000], "power": 465, "time": 10020 }
+  ]
+}

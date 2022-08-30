@@ -1,0 +1,95 @@
+{
+  "name": "EvolvingPoints",
+  "levels": [
+    {
+      "rss": [0, 0, 0, 160000, 260000, 130000],
+      "power": 413,
+      "time": 15360,
+      "extra": [{ "name": "CreatureRemains", "amount": 100 }]
+    },
+    {
+      "rss": [0, 0, 0, 180000, 290000, 130000],
+      "power": 886,
+      "time": 16920,
+      "extra": [{ "name": "CreatureRemains", "amount": 110 }]
+    },
+    {
+      "rss": [0, 0, 0, 190000, 320000, 140000],
+      "power": 1342,
+      "time": 18600,
+      "extra": [{ "name": "CreatureRemains", "amount": 110 }]
+    },
+    {
+      "rss": [0, 0, 0, 230000, 380000, 150000],
+      "power": 1870,
+      "time": 20460,
+      "extra": [{ "name": "CreatureRemains", "amount": 120 }]
+    },
+    {
+      "rss": [0, 0, 0, 280000, 460000, 160000],
+      "power": 2469,
+      "time": 24540,
+      "extra": [{ "name": "CreatureRemains", "amount": 130 }]
+    },
+    {
+      "rss": [0, 0, 0, 330000, 550000, 180000],
+      "power": 3168,
+      "time": 29460,
+      "extra": [{ "name": "CreatureRemains", "amount": 150 }]
+    },
+    {
+      "rss": [0, 0, 0, 430000, 710000, 200000],
+      "power": 3970,
+      "time": 35340,
+      "extra": [{ "name": "CreatureRemains", "amount": 160 }]
+    },
+    {
+      "rss": [0, 0, 0, 560000, 960000, 240000],
+      "power": 4962,
+      "time": 45900,
+      "extra": [{ "name": "CreatureRemains", "amount": 190 }]
+    },
+    {
+      "rss": [0, 0, 0, 790000, 1300000, 280000],
+      "power": 6226,
+      "time": 59700,
+      "extra": [{ "name": "CreatureRemains", "amount": 230 }]
+    },
+    {
+      "rss": [0, 0, 0, 1100000, 1800000, 340000],
+      "power": 7815,
+      "time": 77640,
+      "extra": [{ "name": "CreatureRemains", "amount": 280 }]
+    },
+    {
+      "rss": [0, 0, 0, 1500000, 2500000, 440000],
+      "power": 9971,
+      "time": 108660,
+      "extra": [{ "name": "CreatureRemains", "amount": 360 }]
+    },
+    {
+      "rss": [0, 0, 0, 2300000, 3800000, 580000],
+      "power": 12906,
+      "time": 152160,
+      "extra": [{ "name": "CreatureRemains", "amount": 470 }]
+    },
+    {
+      "rss": [0, 0, 0, 3500000, 5700000, 750000],
+      "power": 16918,
+      "time": 213000,
+      "extra": [{ "name": "CreatureRemains", "amount": 610 }]
+    },
+    {
+      "rss": [0, 0, 0, 4900000, 8000000, 1100000],
+      "power": 22242,
+      "time": 276900,
+      "extra": [{ "name": "CreatureRemains", "amount": 850 }]
+    },
+    {
+      "rss": [0, 0, 0, 6300000, 10000000, 1500000],
+      "power": 29100,
+      "time": 332280,
+      "extra": [{ "name": "CreatureRemains", "amount": 1200 }]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TermiteFarmExpansionII",
+  "levels": [
+    {
+      "rss": [0, 5300000, 0, 0, 2600000, 450000],
+      "power": 4393,
+      "time": 96780,
+      "extra": [{ "name": "InsectFodder", "amount": 1800 }]
+    }
+  ]
+}

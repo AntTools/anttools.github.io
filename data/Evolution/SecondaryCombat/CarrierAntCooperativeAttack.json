@@ -1,0 +1,39 @@
+{
+  "name": "CarrierAntCooperativeAttack",
+  "levels": [
+    {
+      "rss": [20000, 0, 0, 0, 16000, 11000],
+      "power": 204,
+      "time": 1200,
+      "extra": [{ "name": "CreatureRemains", "amount": 720 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 16
+        },
+        {
+          "domain": "Evolution",
+          "type": "SecondaryCombat",
+          "name": "DuelMasterI",
+          "level": 10
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+      "rss": [133500, 0, 0, 0, 106800, 75500],
+      "power": 3188,
+      "time": 29100,
+      "extra": [{ "name": "CreatureRemains", "amount": 2820 }]
+    },
+    null,
+    null,
+    null,
+    null
+  ]
+}

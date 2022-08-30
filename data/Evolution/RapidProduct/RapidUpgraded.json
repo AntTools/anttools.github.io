@@ -1,0 +1,30 @@
+{
+  "levels": [
+    {
+      "rss": [1600, 2600, 0, 0, 0, 1400],
+      "power": 12,
+      "time": 960,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        },
+        {
+          "domain": "Evolution",
+          "type": "RapidProduct",
+          "name": "RapidDigging",
+          "level": 1
+        },
+        {
+          "domain": "Evolution",
+          "type": "RapidProduct",
+          "name": "RapidPiling",
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "name": "RapidUpgraded"
+}

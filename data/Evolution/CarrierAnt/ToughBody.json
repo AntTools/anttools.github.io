@@ -1,0 +1,32 @@
+{
+  "name": "ToughBody",
+  "levels": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+      "rss": [0, 0, 0, 1400000, 2900000, 340000],
+      "power": 6148,
+      "time": 118620,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 9
+        }
+      ]
+    },
+    null,
+    null,
+    null,
+    null
+  ]
+}

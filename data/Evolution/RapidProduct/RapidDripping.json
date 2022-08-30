@@ -1,0 +1,18 @@
+{
+  "levels": [
+    {
+      "rss": [0, 0, 0, 0, 0, 800],
+      "power": 2,
+      "time": 80,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    }
+  ],
+  "name": "RapidDripping"
+}

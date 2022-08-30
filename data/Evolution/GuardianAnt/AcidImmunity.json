@@ -1,0 +1,65 @@
+{
+  "name": "AcidImmunity",
+  "levels": [
+    {
+      "rss": [340000, 920000, 0, 780000, 1400000, 0],
+      "power": 1487,
+      "time": 88620,
+      "extra": [{ "name": "CreatureRemains", "amount": 180 }]
+    },
+    {
+      "rss": [400000, 1200000, 0, 920000, 1800000, 0],
+      "power": 3343,
+      "time": 102780,
+      "extra": [{ "name": "CreatureRemains", "amount": 220 }]
+    },
+    {
+      "rss": [480000, 1400000, 0, 1200000, 2000000, 0],
+      "power": 5464,
+      "time": 122760,
+      "extra": [{ "name": "CreatureRemains", "amount": 260 }]
+    },
+    {
+      "rss": [660000, 1600000, 0, 1400000, 2800000, 0],
+      "power": 8120,
+      "time": 149040,
+      "extra": [{ "name": "CreatureRemains", "amount": 340 }]
+    },
+    {
+      "rss": [860000, 2200000, 0, 1800000, 3400000, 0],
+      "power": 11529,
+      "time": 190860,
+      "extra": [{ "name": "CreatureRemains", "amount": 450 }]
+    },
+    {
+      "rss": [1200000, 3200000, 0, 2600000, 5400000, 0],
+      "power": 15882,
+      "time": 249360,
+      "extra": [{ "name": "CreatureRemains", "amount": 640 }]
+    },
+    {
+      "rss": [1600000, 4600000, 0, 4200000, 7800000, 0],
+      "power": 22410,
+      "time": 329100,
+      "extra": [{ "name": "CreatureRemains", "amount": 940 }]
+    },
+    {
+      "rss": [3000000, 7000000, 0, 7000000, 12000000, 0],
+      "power": 30674,
+      "time": 419640,
+      "extra": [{ "name": "CreatureRemains", "amount": 1500 }]
+    },
+    {
+      "rss": [4600000, 14000000, 0, 12000000, 20000000, 0],
+      "power": 43762,
+      "time": 599700,
+      "extra": [{ "name": "CreatureRemains", "amount": 2550 }]
+    },
+    {
+      "rss": [7800000, 22000000, 0, 18000000, 36000000, 0],
+      "power": 63877,
+      "time": 839820,
+      "extra": [{ "name": "CreatureRemains", "amount": 4590 }]
+    }
+  ]
+}

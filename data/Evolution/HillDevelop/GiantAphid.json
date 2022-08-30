@@ -1,0 +1,39 @@
+{
+  "name": "GiantAphid",
+  "levels": [
+    {
+      "rss": [8200, 6400, 0, 0, 0, 8800],
+      "power": 27,
+      "time": 2340,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 2
+        },
+        {
+          "domain": "Evolution",
+          "type": "HillDevelop",
+          "name": "SoftSoil",
+          "level": 3
+        },
+        {
+          "domain": "Evolution",
+          "type": "HillDevelop",
+          "name": "Boulder",
+          "level": 3
+        }
+      ]
+    },
+    { "rss": [10000, 7400, 0, 0, 0, 9600], "power": 59, "time": 2640 },
+    { "rss": [12000, 9400, 0, 0, 0, 12000], "power": 95, "time": 3300 },
+    { "rss": [16000, 12000, 0, 0, 0, 14000], "power": 139, "time": 3840 },
+    { "rss": [20000, 16000, 0, 0, 0, 18000], "power": 202, "time": 4980 },
+    { "rss": [26000, 22000, 0, 0, 0, 22000], "power": 274, "time": 6000 },
+    { "rss": [44000, 32000, 0, 0, 0, 30000], "power": 371, "time": 7980 },
+    { "rss": [66000, 50000, 0, 0, 0, 44000], "power": 497, "time": 10320 },
+    { "rss": [120000, 82000, 0, 0, 0, 72000], "power": 692, "time": 14280 },
+    { "rss": [220000, 180000, 0, 0, 0, 100000], "power": 929, "time": 20040 }
+  ]
+}

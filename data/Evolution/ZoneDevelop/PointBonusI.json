@@ -1,0 +1,65 @@
+{
+  "name": "PointBonusI",
+  "levels": [
+    {
+      "rss": [0, 0, 0, 80000, 130000, 37000],
+      "power": 310,
+      "time": 8820,
+      "extra": [{ "name": "CreatureRemains", "amount": 90 }]
+    },
+    {
+      "rss": [0, 0, 0, 96000, 160000, 41000],
+      "power": 663,
+      "time": 10620,
+      "extra": [{ "name": "CreatureRemains", "amount": 100 }]
+    },
+    {
+      "rss": [0, 0, 0, 110000, 190000, 49000],
+      "power": 1090,
+      "time": 12720,
+      "extra": [{ "name": "CreatureRemains", "amount": 120 }]
+    },
+    {
+      "rss": [0, 0, 0, 150000, 240000, 59000],
+      "power": 1594,
+      "time": 15300,
+      "extra": [{ "name": "CreatureRemains", "amount": 140 }]
+    },
+    {
+      "rss": [0, 0, 0, 190000, 320000, 71000],
+      "power": 2224,
+      "time": 19860,
+      "extra": [{ "name": "CreatureRemains", "amount": 170 }]
+    },
+    {
+      "rss": [0, 0, 0, 270000, 450000, 92000],
+      "power": 3034,
+      "time": 25800,
+      "extra": [{ "name": "CreatureRemains", "amount": 220 }]
+    },
+    {
+      "rss": [0, 0, 0, 410000, 670000, 130000],
+      "power": 4143,
+      "time": 33600,
+      "extra": [{ "name": "CreatureRemains", "amount": 310 }]
+    },
+    {
+      "rss": [0, 0, 0, 650000, 1100000, 190000],
+      "power": 5734,
+      "time": 43620,
+      "extra": [{ "name": "CreatureRemains", "amount": 470 }]
+    },
+    {
+      "rss": [0, 0, 0, 1100000, 1800000, 290000],
+      "power": 8068,
+      "time": 61080,
+      "extra": [{ "name": "CreatureRemains", "amount": 700 }]
+    },
+    {
+      "rss": [0, 0, 0, 2000000, 3300000, 430000],
+      "power": 11476,
+      "time": 85560,
+      "extra": [{ "name": "CreatureRemains", "amount": 1060 }]
+    }
+  ]
+}

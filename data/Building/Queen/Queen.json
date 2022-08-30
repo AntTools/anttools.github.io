@@ -1,0 +1,444 @@
+{
+  "name": "Queen",
+  "levels": [
+    { "rss": [], "time": 0, "power": 0 },
+    { "rss": [0, 0, 0, 0, 0, 0], "time": 0, "power": 0 },
+    { "rss": [0, 200, 0, 0, 0, 0], "time": 3, "power": 2568 },
+    {
+      "rss": [100, 200, 0, 0, 0, 0],
+      "time": 50,
+      "power": 2773,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 2,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "WorkerAntNest",
+          "level": 2,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [0, 760, 0, 860, 0, 700],
+      "time": 120,
+      "power": 2979,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 3,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "NativeFungi",
+          "level": 3,
+          "domain": "Building",
+          "type": "Fungus"
+        }
+      ]
+    },
+    {
+      "rss": [960, 1000, 0, 1400, 500, 1000],
+      "time": 710,
+      "power": 3186,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 4,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "WorkerAntNest",
+          "level": 4,
+          "domain": "Building",
+          "type": "AntPop"
+        }
+      ]
+    },
+    {
+      "rss": [1800, 0, 0, 3400, 1200, 3000],
+      "time": 2110,
+      "power": 3397,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 5,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "Aphid",
+          "level": 5,
+          "domain": "Building",
+          "type": "Honeydew"
+        }
+      ]
+    },
+    {
+      "rss": [8600, 12000, 4800, 14000, 10000, 8200],
+      "time": 5620,
+      "power": 3634,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 6,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "NativeFungi",
+          "level": 6,
+          "domain": "Building",
+          "type": "Fungus"
+        }
+      ]
+    },
+    {
+      "rss": [26000, 26000, 9600, 52000, 38000, 60000],
+      "time": 11240,
+      "power": 3881,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 7,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "WetSoilPile",
+          "level": 7,
+          "domain": "Building",
+          "type": "WetSoil"
+        }
+      ]
+    },
+    {
+      "rss": [50000, 48000, 18000, 100000, 76000, 100000],
+      "time": 15730,
+      "power": 4131,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 8,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "CocoonMedium",
+          "level": 8,
+          "domain": "Building",
+          "type": "Combat"
+        }
+      ]
+    },
+    {
+      "rss": [68000, 70000, 28000, 140000, 100000, 180000],
+      "time": 20450,
+      "power": 4419,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 9,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "HealingPool",
+          "level": 9,
+          "domain": "Building",
+          "type": "Combat"
+        }
+      ]
+    },
+    {
+      "rss": [98000, 98000, 42000, 200000, 140000, 280000],
+      "time": 26580,
+      "power": 4760,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 10,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "WetSoilPile",
+          "level": 10,
+          "domain": "Building",
+          "type": "WetSoil"
+        }
+      ]
+    },
+    {
+      "rss": [160000, 160000, 62000, 300000, 240000, 420000],
+      "time": 34550,
+      "power": 5117,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 11,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "WoodlouseColony",
+          "level": 11,
+          "domain": "Building",
+          "type": "Meat"
+        }
+      ]
+    },
+    {
+      "rss": [260000, 260000, 94000, 480000, 400000, 600000],
+      "time": 44920,
+      "power": 5504,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 12,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "WetSoilPile",
+          "level": 12,
+          "domain": "Building",
+          "type": "WetSoil"
+        }
+      ]
+    },
+    {
+      "rss": [420000, 400000, 140000, 820000, 580000, 840000],
+      "time": 58390,
+      "power": 5996,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 13,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "ShooterAntNest",
+          "level": 13,
+          "domain": "Building",
+          "type": "Combat"
+        }
+      ]
+    },
+    {
+      "rss": [720000, 740000, 200000, 1000000, 1000000, 1200000],
+      "time": 81740,
+      "power": 6624,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 14,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "Aphid",
+          "level": 14,
+          "domain": "Building",
+          "type": "Honeydew"
+        }
+      ]
+    },
+    {
+      "rss": [1000000, 1000000, 300000, 2000000, 1400000, 1600000],
+      "time": 114440,
+      "power": 7514,
+      "extra": [{ "name": "AntPop", "amount": 70000 }],
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 15,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "AllianceCenter",
+          "level": 15,
+          "domain": "Building",
+          "type": "Alliance"
+        }
+      ]
+    },
+    {
+      "rss": [2000000, 2000000, 480000, 3000000, 2400000, 2600000],
+      "time": 160210,
+      "power": 8635,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 16,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "CarrierAntNest",
+          "level": 16,
+          "domain": "Building",
+          "type": "Combat"
+        }
+      ]
+    },
+    {
+      "rss": [4200000, 4000000, 680000, 4800000, 4000000, 4600000],
+      "time": 224300,
+      "power": 10024,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 17,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "WoodlouseColony",
+          "level": 17,
+          "domain": "Building",
+          "type": "Meat"
+        }
+      ]
+    },
+    {
+      "rss": [6800000, 7200000, 1000000, 10000000, 8200000, 7800000],
+      "time": 320990,
+      "power": 12043,
+      "extra": [{ "name": "AntPop", "amount": 120000 }],
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 18,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "Leafcutter",
+          "level": 18,
+          "domain": "Building",
+          "type": "Fungus"
+        }
+      ]
+    },
+    {
+      "rss": [12000000, 12000000, 1400000, 20000000, 16000000, 12000000],
+      "time": 439620,
+      "power": 14878,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 19,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "PlantFlora",
+          "level": 19,
+          "domain": "Building",
+          "type": "Plant"
+        }
+      ]
+    },
+    {
+      "rss": [20000000, 18000000, 1800000, 36000000, 28000000, 18000000],
+      "time": 571500,
+      "power": 18705,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 20,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        { "name": "Spring", "level": 20, "domain": "Building", "type": "Water" }
+      ]
+    },
+    {
+      "rss": [28000000, 28000000, 2400000, 56000000, 42000000, 22000000],
+      "time": 742950,
+      "power": 23091,
+      "extra": [{ "name": "AntPop", "amount": 210000 }],
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 21,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "Aphid",
+          "level": 21,
+          "domain": "Building",
+          "type": "Honeydew"
+        }
+      ]
+    },
+    {
+      "rss": [38000000, 38000000, 3000000, 76000000, 56000000, 26000000],
+      "time": 965830,
+      "power": 29566,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 22,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "SandPile",
+          "level": 22,
+          "domain": "Building",
+          "type": "Sand"
+        }
+      ]
+    },
+    {
+      "rss": [50000000, 50000000, 3400000, 98000000, 74000000, 28000000],
+      "time": 1352170,
+      "power": 37576,
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 23,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "CarrierAntNest",
+          "level": 23,
+          "domain": "Building",
+          "type": "Combat"
+        }
+      ]
+    },
+    {
+      "rss": [60000000, 60000000, 3800000, 120000000, 88000000, 34000000],
+      "time": 1893015,
+      "power": 49417,
+      "extra": [{ "name": "AntPop", "amount": 350000 }],
+      "req": [
+        {
+          "name": "FeedingGround",
+          "level": 24,
+          "domain": "Building",
+          "type": "AntPop"
+        },
+        {
+          "name": "AllianceCenter",
+          "level": 24,
+          "domain": "Building",
+          "type": "Alliance"
+        }
+      ]
+    }
+  ]
+}

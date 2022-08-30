@@ -1,0 +1,95 @@
+{
+  "name": "RecyclingI",
+  "levels": [
+    {
+      "rss": [0, 180000, 0, 0, 88000, 15000],
+      "power": 119,
+      "time": 7320,
+      "extra": [{ "name": "InsectFodder", "amount": 50 }]
+    },
+    {
+      "rss": [0, 190000, 0, 0, 96000, 16000],
+      "power": 241,
+      "time": 7740,
+      "extra": [{ "name": "InsectFodder", "amount": 50 }]
+    },
+    {
+      "rss": [0, 210000, 0, 0, 105000, 18000],
+      "power": 390,
+      "time": 8460,
+      "extra": [{ "name": "InsectFodder", "amount": 50 }]
+    },
+    {
+      "rss": [0, 240000, 0, 0, 116000, 20000],
+      "power": 542,
+      "time": 9540,
+      "extra": [{ "name": "InsectFodder", "amount": 60 }]
+    },
+    {
+      "rss": [0, 250000, 0, 0, 130000, 21000],
+      "power": 724,
+      "time": 12780,
+      "extra": [{ "name": "InsectFodder", "amount": 60 }]
+    },
+    {
+      "rss": [0, 300000, 0, 0, 150000, 26000],
+      "power": 939,
+      "time": 15420,
+      "extra": [{ "name": "InsectFodder", "amount": 70 }]
+    },
+    {
+      "rss": [0, 360000, 0, 0, 190000, 31000],
+      "power": 1210,
+      "time": 17560,
+      "extra": [{ "name": "InsectFodder", "amount": 80 }]
+    },
+    {
+      "rss": [0, 440000, 0, 0, 230000, 38000],
+      "power": 1539,
+      "time": 18420,
+      "extra": [{ "name": "InsectFodder", "amount": 110 }]
+    },
+    {
+      "rss": [0, 530000, 0, 0, 260000, 45000],
+      "power": 1929,
+      "time": 22080,
+      "extra": [{ "name": "InsectFodder", "amount": 130 }]
+    },
+    {
+      "rss": [0, 640000, 0, 0, 310000, 54000],
+      "power": 2407,
+      "time": 26340,
+      "extra": [{ "name": "InsectFodder", "amount": 160 }]
+    },
+    {
+      "rss": [0, 760000, 0, 0, 380000, 65000],
+      "power": 3010,
+      "time": 31620,
+      "extra": [{ "name": "InsectFodder", "amount": 180 }]
+    },
+    {
+      "rss": [0, 990000, 0, 0, 500000, 85000],
+      "power": 3794,
+      "time": 37920,
+      "extra": [{ "name": "InsectFodder", "amount": 230 }]
+    },
+    {
+      "rss": [0, 1300000, 0, 0, 640000, 110000],
+      "power": 4817,
+      "time": 45480,
+      "extra": [{ "name": "InsectFodder", "amount": 320 }]
+    },
+    {
+      "rss": [0, 1600000, 0, 0, 840000, 140000],
+      "power": 6142,
+      "time": 54600,
+      "extra": [{ "name": "InsectFodder", "amount": 430 }]
+    },
+    {
+      "rss": [0, 2100000, 0, 0, 1090000, 190000],
+      "power": 7883,
+      "time": 65520,
+      "extra": [{ "name": "InsectFodder", "amount": 700 }]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SecondaryLeadership",
+  "levels": [
+    {
+      "rss": [820000, 840000, 0, 0, 840000, 200000],
+      "power": 772,
+      "time": 60960
+    }
+  ]
+}

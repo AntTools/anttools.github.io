@@ -1,0 +1,11 @@
+{
+  "name": "IntermediateRewards",
+  "levels": [
+    {
+      "rss": [0, 1300000, 0, 0, 1100000, 190000],
+      "power": 3236,
+      "time": 42300,
+      "extra": [{ "name": "CreatureRemains", "amount": 1190 }]
+    }
+  ]
+}

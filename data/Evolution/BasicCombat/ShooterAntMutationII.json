@@ -1,0 +1,10 @@
+{
+  "name": "ShooterAntMutationII",
+  "levels": [
+    {
+      "rss": [120000, 160000, 0, 0, 180000, 28000],
+      "power": 325,
+      "time": 26460
+    }
+  ]
+}

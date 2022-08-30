@@ -1,0 +1,10 @@
+{
+  "name": "GuardianAntMutationIII",
+  "levels": [
+    {
+      "rss": [2400000, 0, 0, 240000, 360000, 56000],
+      "power": 661,
+      "time": 62880
+    }
+  ]
+}

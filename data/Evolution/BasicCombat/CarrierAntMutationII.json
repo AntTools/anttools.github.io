@@ -1,0 +1,10 @@
+{
+  "name": "CarrierAntMutationII",
+  "levels": [
+    {
+      "rss": [120000, 160000, 0, 120000, 0, 28000],
+      "power": 330,
+      "time": 25860
+    }
+  ]
+}

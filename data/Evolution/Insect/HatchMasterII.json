@@ -1,0 +1,125 @@
+{
+  "name": "HatchMasterII",
+  "levels": [
+    {
+      "rss": [280000, 0, 0, 190000, 0, 24000],
+      "power": 135,
+      "time": 5040,
+      "extra": [{ "name": "InsectFodder", "amount": 70 }]
+    },
+    {
+      "rss": [300000, 0, 0, 200000, 0, 26000],
+      "power": 294,
+      "time": 6060,
+      "extra": [{ "name": "InsectFodder", "amount": 70 }]
+    },
+    {
+      "rss": [340000, 0, 0, 220000, 0, 29000],
+      "power": 512,
+      "time": 7260,
+      "extra": [{ "name": "InsectFodder", "amount": 70 }]
+    },
+    {
+      "rss": [360000, 0, 0, 240000, 0, 31000],
+      "power": 736,
+      "time": 8760,
+      "extra": [{ "name": "InsectFodder", "amount": 80 }]
+    },
+    {
+      "rss": [400000, 0, 0, 260000, 0, 35000],
+      "power": 989,
+      "time": 10500,
+      "extra": [{ "name": "InsectFodder", "amount": 100 }]
+    },
+    {
+      "rss": [490000, 0, 0, 330000, 0, 41000],
+      "power": 1303,
+      "time": 12540,
+      "extra": [{ "name": "InsectFodder", "amount": 110 }]
+    },
+    {
+      "rss": [580000, 0, 0, 390000, 0, 50000],
+      "power": 1679,
+      "time": 15060,
+      "extra": [{ "name": "InsectFodder", "amount": 120 }]
+    },
+    {
+      "rss": [700000, 0, 0, 460000, 0, 60000],
+      "power": 2120,
+      "time": 18060,
+      "extra": [{ "name": "InsectFodder", "amount": 130 }]
+    },
+    {
+      "rss": [840000, 0, 0, 550000, 0, 71000],
+      "power": 2654,
+      "time": 21720,
+      "extra": [{ "name": "InsectFodder", "amount": 160 }]
+    },
+    {
+      "rss": [1000000, 0, 0, 660000, 0, 86000],
+      "power": 3286,
+      "time": 26040,
+      "extra": [{ "name": "InsectFodder", "amount": 180 }]
+    },
+    {
+      "rss": [1200000, 0, 0, 800000, 0, 103000],
+      "power": 4045,
+      "time": 31200,
+      "extra": [{ "name": "InsectFodder", "amount": 230 }]
+    },
+    {
+      "rss": [1500000, 0, 0, 1040000, 0, 140000],
+      "power": 5026,
+      "time": 37440,
+      "extra": [{ "name": "InsectFodder", "amount": 320 }]
+    },
+    {
+      "rss": [2000000, 0, 0, 1400000, 0, 180000],
+      "power": 6318,
+      "time": 44940,
+      "extra": [{ "name": "InsectFodder", "amount": 430 }]
+    },
+    {
+      "rss": [2600000, 0, 0, 1800000, 0, 230000],
+      "power": 7989,
+      "time": 53940,
+      "extra": [{ "name": "InsectFodder", "amount": 700 }]
+    },
+    {
+      "rss": [3400000, 0, 0, 2300000, 0, 300000],
+      "power": 10165,
+      "time": 64740,
+      "extra": [{ "name": "InsectFodder", "amount": 860 }]
+    },
+    {
+      "rss": [4500000, 0, 0, 3000000, 0, 390000],
+      "power": 12977,
+      "time": 77700,
+      "extra": [{ "name": "InsectFodder", "amount": 1130 }]
+    },
+    {
+      "rss": [5800000, 0, 0, 3900000, 0, 500000],
+      "power": 16735,
+      "time": 108720,
+      "extra": [{ "name": "InsectFodder", "amount": 1440 }]
+    },
+    {
+      "rss": [8100000, 0, 0, 5400000, 0, 700000],
+      "power": 21806,
+      "time": 157680,
+      "extra": [{ "name": "InsectFodder", "amount": 2040 }]
+    },
+    {
+      "rss": [12100000, 0, 0, 8100000, 0, 1040000],
+      "power": 29414,
+      "time": 236439,
+      "extra": [{ "name": "InsectFodder", "amount": 2880 }]
+    },
+    {
+      "rss": [20000000, 0, 0, 12500000, 0, 1600000],
+      "power": 38277,
+      "time": 378319,
+      "extra": [{ "name": "InsectFodder", "amount": 4560 }]
+    }
+  ]
+}

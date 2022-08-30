@@ -1,0 +1,28 @@
+{
+  "levels": [
+    {
+      "rss": [3600, 5800, 0, 0, 0, 3000],
+      "power": 10,
+      "time": 780,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        },
+        {
+          "domain": "Evolution",
+          "type": "RapidProduct",
+          "name": "EfficientRapidPlucking",
+          "level": 1
+        }
+      ]
+    },
+    { "rss": [5600, 9000, 0, 0, 0, 4400], "power": 21, "time": 1140 },
+    { "rss": [12000, 18000, 0, 0, 0, 7000], "power": 46, "time": 1920 },
+    { "rss": [24000, 40000, 0, 0, 0, 18000], "power": 89, "time": 3660 },
+    { "rss": [72000, 140000, 0, 0, 0, 40000], "power": 180, "time": 7020 }
+  ],
+  "name": "EfficientRapidDigging"
+}
