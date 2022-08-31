@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import Feeder from "./Feeder.json";
 import EarthySpring from "./EarthySpring.json";
 import Saprophyte from "./Saprophyte.json";
@@ -25,4 +27,4 @@ export default {
     [DepotMaster],
     [Architect],
   ],
-};
+} as EvolutionType

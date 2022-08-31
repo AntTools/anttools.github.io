@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import GuardianAntFastHatch from "./GuardianAntFastHatch.json";
 import ShooterAntFastHatch from "./ShooterAntFastHatch.json";
 import CarrierAntFastHatch from "./CarrierAntFastHatch.json";
@@ -20,4 +22,4 @@ export default {
     [LeafMedium, WoodMedium, SandMedium],
     [FatalAttack],
   ],
-};
+} as EvolutionType

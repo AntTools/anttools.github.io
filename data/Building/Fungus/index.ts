@@ -1,3 +1,5 @@
+import type { BuildingType } from "../../type";
+
 import Leafcutter from "./Leafcutter.json";
 import FungusDepot from "./FungusDepot.json";
 import FungusDepotII from "./FungusDepotII.json";
@@ -15,4 +17,4 @@ export default {
     NativeFungi,
     SupremeNativeFungi,
   ],
-};
+} as BuildingType

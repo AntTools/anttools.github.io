@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import CourageAward from "./CourageAward.json";
 import GuardianAntMutationI from "./GuardianAntMutationI.json";
 import ShooterAntMutationI from "./ShooterAntMutationI.json";
@@ -27,4 +29,4 @@ export default {
     [DodgeTechnique],
     [TertiaryAttack, TertiaryDefense],
   ],
-};
+} as EvolutionType

@@ -1,3 +1,5 @@
+import type { BuildingType } from "../../type";
+
 import EvolutionFungi from "./EvolutionFungi.json";
 import SpecialNest from "./SpecialNest.json";
 import SpecialAntHabitat from "./SpecialAntHabitat.json";
@@ -13,4 +15,4 @@ export default {
     MutationPool,
     ConstructionCenter,
   ],
-};
+} as BuildingType

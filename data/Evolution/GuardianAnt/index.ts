@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import BruteForce from "./BruteForce.json";
 import ChitinArmor from "./ChitinArmor.json";
 import HardSkullII from "./HardSkullII.json";
@@ -29,4 +31,4 @@ export default {
     [GarrisonResolution, SpikyShell],
     [T_9GuardianAnt],
   ],
-};
+} as EvolutionType

@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import FlexibleCombat from "./FlexibleCombat.json";
 import StrongBelly from "./StrongBelly.json";
 import Crush from "./Crush.json";
@@ -29,4 +31,4 @@ export default {
     [FieldBattle, SturdyBody],
     [T_9CarrierAnt],
   ],
-};
+} as EvolutionType

@@ -1,3 +1,5 @@
+import type { BuildingType } from "../../type";
+
 import GuardianAntNest from "./GuardianAntNest.json";
 import ShooterAntNest from "./ShooterAntNest.json";
 import CarrierAntNest from "./CarrierAntNest.json";
@@ -29,4 +31,4 @@ export default {
     MutationFlora,
     SoldiersReformPool,
   ],
-};
+} as BuildingType

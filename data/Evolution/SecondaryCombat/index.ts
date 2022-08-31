@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import BigBite from "./BigBite.json";
 import AcidSpray from "./AcidSpray.json";
 import HeavyCrush from "./HeavyCrush.json";
@@ -34,4 +36,4 @@ export default {
     [TierSuperiorityIII],
     [DuelMasterII],
   ],
-};
+} as EvolutionType

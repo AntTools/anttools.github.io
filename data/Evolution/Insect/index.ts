@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import InsectNestExpansionI from "./InsectNestExpansionI.json";
 import FodderMasterI from "./FodderMasterI.json";
 import HatchMasterI from "./HatchMasterI.json";
@@ -26,4 +28,4 @@ export default {
     [EfficientButchering],
     [Hatcher],
   ],
-};
+} as EvolutionType

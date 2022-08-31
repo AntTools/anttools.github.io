@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import PrimaryLeadership from "./PrimaryLeadership.json";
 import Gatherer from "./Gatherer.json";
 import Transporter from "./Transporter.json";
@@ -26,4 +28,4 @@ export default {
     [PlierMouthpart, ToxicAcid, StoutLeg],
     [TertiaryLeadership],
   ],
-};
+} as EvolutionType

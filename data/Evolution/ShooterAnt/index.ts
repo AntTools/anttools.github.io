@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import AcidAttack from "./AcidAttack.json";
 import BacterialRibus from "./BacterialRibus.json";
 import Blindside from "./Blindside.json";
@@ -29,4 +31,4 @@ export default {
     [ToughBattle, VirulentAcid],
     [T_9ShooterAnt],
   ],
-};
+} as EvolutionType

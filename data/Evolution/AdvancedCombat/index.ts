@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import DodgeTricks from "./DodgeTricks.json";
 import GuardianAntCooperativeCombat from "./GuardianAntCooperativeCombat.json";
 import ShooterAntCooperativeCombat from "./ShooterAntCooperativeCombat.json";
@@ -20,4 +22,4 @@ export default {
     [FakeOdor],
     [GuardianAntSwiftCombat, ShooterAntSwiftCombat, CarrierAntSwiftCombat],
   ],
-};
+} as EvolutionType

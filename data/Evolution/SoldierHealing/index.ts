@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import GuardianAntAutoHealing from "./GuardianAntAutoHealing.json";
 import ShooterAntAutoHealing from "./ShooterAntAutoHealing.json";
 import CarrierAntAutoHealing from "./CarrierAntAutoHealing.json";
@@ -19,4 +21,4 @@ export default {
     [DodgeAttack],
     [MakeshiftHealingPool, FightAlone],
   ],
-};
+} as EvolutionType

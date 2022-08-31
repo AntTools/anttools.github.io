@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import ZoneGatherer from "./ZoneGatherer.json";
 import ExtraResource from "./ExtraResource.json";
 import IntermediateRewards from "./IntermediateRewards.json";
@@ -33,4 +35,4 @@ export default {
     [PointsBonusII],
     [DoubleRewards],
   ],
-};
+} as EvolutionType

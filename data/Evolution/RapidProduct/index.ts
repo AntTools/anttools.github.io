@@ -1,3 +1,5 @@
+import type { EvolutionType } from "../../type";
+
 import RapidButchering from "./RapidButchering.json";
 import RapidDripping from "./RapidDripping.json";
 import RapidPlucking from "./RapidPlucking.json";
@@ -26,4 +28,4 @@ export default {
     [EfficientProduction],
     [StableProduction],
   ],
-};
+} as EvolutionType
