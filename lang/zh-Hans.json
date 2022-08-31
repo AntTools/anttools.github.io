@@ -292,17 +292,17 @@
     "BELLY_STORAGE": "腹囊存储",
     "CARRIER_ANT_MUTATION_III": "运输蚁异变III",
     "CRUSH": "碾压",
-    "FIELD_BATTLE": "\n野外作战专家",
+    "FIELD_BATTLE": "野外作战专家",
     "FLEXIBLE_COMBAT": "灵活作战",
-    "PACK_LIGHT_II": "\n轻便行动",
-    "RIPPING_CRUSH": "\n撕裂碾压",
-    "STRONG_BELLY": "\n腹部加固",
+    "PACK_LIGHT_II": "轻便行动",
+    "RIPPING_CRUSH": "撕裂碾压",
+    "STRONG_BELLY": "腹部加固",
     "STURDY_BODY": "厚重蚁躯",
-    "T-9_CARRIER_ANT": "\n解锁9级运输蚁",
+    "T-9_CARRIER_ANT": "解锁9级运输蚁",
     "TEETH_BLADE": "口器强化"
   },
   "UNKNOWN": "未知",
   "CONSTRUCTION_SPEED": "建造速度",
-  "EVOLUTION_SPEED": "\n进化速度",
+  "EVOLUTION_SPEED": "进化速度",
   "SETTING": "设定"
 }

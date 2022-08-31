@@ -5,7 +5,33 @@
       "rss": [0, 30000000, 0, 24000000, 48000000, 3200000],
       "power": 58312,
       "time": 1560480,
-      "extra": [{ "name": "CreatureRemains", "amount": 17500 }]
+      "extra": [{ "name": "CreatureRemains", "amount": 17500 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 24
+        },
+        {
+          "domain": "Building",
+          "type": "Combat",
+          "name": "GuardianAntNest",
+          "level": 25
+        },
+        {
+          "domain": "Evolution",
+          "type": "GuardianAnt",
+          "name": "GarrisonResolution",
+          "level": 20
+        },
+        {
+          "domain": "Evolution",
+          "type": "GuardianAnt",
+          "name": "SpikyShell",
+          "level": 20
+        }
+      ]
     }
   ]
 }
