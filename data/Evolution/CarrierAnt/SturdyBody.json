@@ -12,17 +12,127 @@
           "type": "Develop",
           "name": "EvolutionFungi",
           "level": 20
+        },
+        {
+          "domain": "Evolution",
+          "type": "CarrierAnt",
+          "name": "CarrierAntMutationIII",
+          "level": 1
         }
       ]
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "rss": [0, 660000, 0, 0, 720000, 420000],
+      "power": 3553,
+      "time": 35280,
+      "extra": [{ "name": "CreatureRemains", "amount": 630 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "rss": [0, 730000, 0, 0, 800000, 440000],
+      "power": 5634,
+      "time": 38580,
+      "extra": [{ "name": "CreatureRemains", "amount": 660 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "rss": [0, 800000, 0, 0, 880000, 470000],
+      "power": 7728,
+      "time": 42780,
+      "extra": [{ "name": "CreatureRemains", "amount": 690 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "rss": [0, 960000, 0, 0, 1100000, 490000],
+      "power": 9997,
+      "time": 46680,
+      "extra": [{ "name": "CreatureRemains", "amount": 730 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "rss": [0, 1200000, 0, 0, 1300000, 540000],
+      "power": 12474,
+      "time": 55860,
+      "extra": [{ "name": "CreatureRemains", "amount": 800 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "rss": [0, 1400000, 0, 0, 1500000, 590000],
+      "power": 15150,
+      "time": 67800,
+      "extra": [{ "name": "CreatureRemains", "amount": 880 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "rss": [0, 1700000, 0, 0, 1800000, 650000],
+      "power": 18258,
+      "time": 80580,
+      "extra": [{ "name": "CreatureRemains", "amount": 970 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "rss": [0, 2000000, 0, 0, 2200000, 720000],
+      "power": 22099,
+      "time": 96540,
+      "extra": [{ "name": "CreatureRemains", "amount": 1060 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 20
+        }
+      ]
+    },
     null,
     null,
     null,

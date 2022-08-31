@@ -1,7 +1,14 @@
 {
   "name": "CarrierAntNest",
   "levels": [
-    { "rss": [0, 0, 0, 0, 0, 140], "time": 0, "power": 0 },
+    {
+      "rss": [0, 0, 0, 0, 0, 140],
+      "time": 0,
+      "power": 0,
+      "req": [
+        { "domain": "Building", "type": "Queen", "name": "Queen", "level": 6 }
+      ]
+    },
     { "rss": [0, 0, 0, 0, 0, 140], "time": 0, "power": 56 },
     { "rss": [0, 2600, 860, 0, 460, 2400], "time": 120, "power": 58 },
     { "rss": [0, 8400, 1200, 0, 1400, 3800], "time": 630, "power": 62 },
