@@ -6,12 +6,12 @@
   "properties": {
     "name": {
       "type": "string",
-      "pattern": "^[A-Z][A-Za-z]*$"
+      "pattern": "^[A-Z][A-Za-z\\-]*$"
     },
     "levels": {
       "type": "array",
       "items": {
-        "type": "object",
+        "type": ["object","null"],
         "additionalProperties": false,
         "required": ["rss", "time", "power"],
         "properties": {
@@ -67,7 +67,7 @@
                 },
                 "name": {
                   "type": "string",
-                  "pattern": "^[A-Z][A-Za-z]*$"
+                  "pattern": "^[A-Z][A-Za-z\\-0-9]*$"
                 },
                 "level": {
                   "type": "integer",

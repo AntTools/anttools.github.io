@@ -1,7 +1,7 @@
 {
   "name": "Queen",
   "levels": [
-    { "rss": [], "time": 0, "power": 0 },
+    { "rss": [0,0,0,0,0,0], "time": 0, "power": 0 },
     { "rss": [0, 0, 0, 0, 0, 0], "time": 0, "power": 0 },
     { "rss": [0, 200, 0, 0, 0, 0], "time": 3, "power": 2568 },
     {
