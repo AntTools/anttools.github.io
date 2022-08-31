@@ -6,7 +6,7 @@
   "properties": {
     "name": {
       "type": "string",
-      "pattern": "^[A-Z][A-Za-z\\-]*$"
+      "pattern": "^[A-Z][A-Za-z\\-0-9]*$"
     },
     "levels": {
       "type": "array",
