@@ -12,7 +12,20 @@
     null,
     null,
     null,
-    null,
+    {
+      "rss": [0, 4000000, 0, 2200000, 0, 1000000],
+      "power": 36209,
+      "time": 180900,
+      "extra": [{ "name": "CreatureRemains", "amount": 1540 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 21
+        }
+      ]
+    },
     null,
     null,
     null,

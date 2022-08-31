@@ -133,9 +133,48 @@
         }
       ]
     },
-    null,
-    null,
-    null,
+    {
+      "rss": [0, 2400000, 0, 0, 2600000, 790000],
+      "power": 25955,
+      "time": 116040,
+      "extra": [{ "name": "CreatureRemains", "amount": 1170 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 20
+        }
+      ]
+    },
+    {
+      "rss": [0, 3100000, 0, 0, 3400000, 870000],
+      "power": 30874,
+      "time": 138780,
+      "extra": [{ "name": "CreatureRemains", "amount": 1290 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 21
+        }
+      ]
+    },
+    {
+      "rss": [0, 4000000, 0, 0, 4400000, 1000000],
+      "power": 36209,
+      "time": 183780,
+      "extra": [{ "name": "CreatureRemains", "amount": 1540 }],
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 21
+        }
+      ]
+    },
     null,
     null,
     null,
