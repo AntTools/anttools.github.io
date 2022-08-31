@@ -1,0 +1,352 @@
+{
+  "building": [
+    { "type": "Queen", "children": ["Queen"] },
+    {
+      "type": "Meat",
+      "children": [
+        "WoodlouseColony",
+        "MeatDepot",
+        "MeatDepotII",
+        "MeatDepotIII"
+      ]
+    },
+    {
+      "type": "Water",
+      "children": ["Spring", "Reservoir", "ReservoirII", "ReservoirIII"]
+    },
+    {
+      "type": "Plant",
+      "children": ["PlantFlora", "PlantDepot", "PlantDepotII", "PlantDepotIII"]
+    },
+    {
+      "type": "WetSoil",
+      "children": [
+        "WetSoilPile",
+        "WetSoilDepot",
+        "WetSoilDepotII",
+        "WetSoilDepotIII"
+      ]
+    },
+    {
+      "type": "Sand",
+      "children": ["SandPile", "SandDepot", "SandDepotII", "SandDepotIII"]
+    },
+    {
+      "type": "Fungus",
+      "children": [
+        "Leafcutter",
+        "FungusDepot",
+        "FungusDepotII",
+        "FungusDepotIII",
+        "NativeFungi",
+        "SupremeNativeFungi"
+      ]
+    },
+    { "type": "AntPop", "children": ["FeedingGround", "WorkerAntNest"] },
+    { "type": "Honeydew", "children": ["Aphid", "LadybugHabitat"] },
+    {
+      "type": "Class",
+      "children": [
+        "ProRallyCenter",
+        "ResourceTunnel",
+        "ResourceFactory",
+        "TrophyStoreroom"
+      ]
+    },
+    {
+      "type": "Develop",
+      "children": [
+        "EvolutionFungi",
+        "SpecialNest",
+        "SpecialAntHabitat",
+        "MutationPool",
+        "ConstructionCenter"
+      ]
+    },
+    {
+      "type": "Combat",
+      "children": [
+        "GuardianAntNest",
+        "ShooterAntNest",
+        "CarrierAntNest",
+        "CocoonMedium",
+        "RallyCenterI",
+        "RallyCenterII",
+        "RallyCenterIII",
+        "HealingPool",
+        "Entrance",
+        "ToxicFungi",
+        "SentinelTree",
+        "MutationFlora",
+        "SoldiersReformPool"
+      ]
+    },
+    { "type": "Alliance", "children": ["AllianceCenter", "TroopTunnel"] },
+    {
+      "type": "Insect",
+      "children": ["InsectHabitat", "InsectNest", "TermiteFarm"]
+    }
+  ],
+  "evolution": [
+    {
+      "type": "RapidProduct",
+      "children": [
+        ["RapidButchering", "RapidDripping"],
+        ["RapidPlucking", "RapidCutting"],
+        ["RapidDigging", "RapidPiling"],
+        ["RapidUpgraded"],
+        ["EfficientRapidButchering", "EfficientRapidDripping"],
+        ["EfficientRapidPlucking", "EfficientRapidCutting"],
+        ["EfficientRapidDigging", "EfficientRapidPiling"],
+        ["EfficientProduction"],
+        ["StableProduction"]
+      ]
+    },
+    {
+      "type": "HillDevelop",
+      "children": [
+        ["Feeder", "EarthySpring"],
+        ["Saprophyte", "SpecialFungus"],
+        ["SoftSoil", "Boulder"],
+        ["GiantAphid"],
+        ["MassButchering", "AgileClimbing"],
+        ["SoilSoftening", "WingedPiling"],
+        ["PrecisionCutting"],
+        ["DepotMaster"],
+        ["Architect"]
+      ]
+    },
+    {
+      "type": "BasicCombat",
+      "children": [
+        ["CourageAward"],
+        ["GuardianAntMutationI", "ShooterAntMutationI", "CarrierAntMutationI"],
+        ["ExtraSpoils"],
+        ["PrimaryAttack", "PrimaryDefense"],
+        [
+          "GuardianAntMutationII",
+          "ShooterAntMutationII",
+          "CarrierAntMutationII"
+        ],
+        ["ExpUp"],
+        ["SecondaryAttack", "SecondaryDefense"],
+        ["DodgeTechnique"],
+        ["TertiaryAttack", "TertiaryDefense"]
+      ]
+    },
+    {
+      "type": "SecondaryCombat",
+      "children": [
+        ["BigBite", "AcidSpray", "HeavyCrush"],
+        ["TierSuperiorityI"],
+        ["BattleDetermination"],
+        [
+          "GuardianAntCooperativeDefense",
+          "ShooterAntCooperativeDefense",
+          "CarrierAntCooperativeDefense"
+        ],
+        ["TierSuperiorityII"],
+        ["DuelMasterI"],
+        [
+          "GuardianAntCooperativeAttack",
+          "ShooterAntCooperativeAttack",
+          "CarrierAntCooperativeAttack"
+        ],
+        ["TierSuperiorityIII"],
+        ["DuelMasterII"]
+      ]
+    },
+    {
+      "type": "MarchUnitI",
+      "children": [
+        ["PrimaryLeadership"],
+        ["Gatherer", "Transporter"],
+        ["HardSkull", "SpikyBack", "ElasticBelly"],
+        ["MarchSpeedup"],
+        ["SecondaryLeadership"],
+        ["TroopRecall"],
+        ["PackLight", "BestRest"],
+        ["PlierMouthpart", "ToxicAcid", "StoutLeg"],
+        ["TertiaryLeadership"]
+      ]
+    },
+    {
+      "type": "ProUnit",
+      "children": [
+        ["PrimaryLeadership"],
+        ["Gatherer", "Transporter"],
+        ["HardSkull", "SpikyBack", "ElasticBelly"],
+        ["MarchSpeedup"],
+        ["SecondaryLeadership"],
+        ["TroopRecall"],
+        ["PackLight", "BestRest"],
+        ["PlierMouthpart", "ToxicAcid", "StoutLeg"],
+        ["TertiaryLeadership"]
+      ]
+    },
+    {
+      "type": "SoldierHealing",
+      "children": [
+        [
+          "GuardianAntAutoHealing",
+          "ShooterAntAutoHealing",
+          "CarrierAntAutoHealing"
+        ],
+        ["FocusedHealing"],
+        [
+          "GuardianAntFastHealing",
+          "ShooterAntFastHealing",
+          "CarrierAntFastHealing"
+        ],
+        ["HealingPoolExpansion"],
+        ["DodgeAttack"],
+        ["MakeshiftHealingPool", "FightAlone"]
+      ]
+    },
+    {
+      "type": "BasicMilitary",
+      "children": [
+        ["GuardianAntFastHatch", "ShooterAntFastHatch", "CarrierAntFastHatch"],
+        ["MediumExpansion"],
+        [
+          "GuardianAntFastHatchII",
+          "ShooterAntFastHatchII",
+          "CarrierAntFastHatchII"
+        ],
+        ["Energetic"],
+        ["LeafMedium", "WoodMedium", "SandMedium"],
+        ["FatalAttack"]
+      ]
+    },
+    {
+      "type": "MarchUnitII",
+      "children": [
+        ["PrimaryLeadership"],
+        ["Gatherer", "Transporter"],
+        ["HardSkull", "SpikyBack", "ElasticBelly"],
+        ["MarchSpeedup"],
+        ["SecondaryLeadership"],
+        ["TroopRecall"],
+        ["PackLight", "BestRest"],
+        ["PlierMouthpart", "ToxicAcid", "StoutLeg"],
+        ["TertiaryLeadership"]
+      ]
+    },
+    {
+      "type": "MarchUnitIII",
+      "children": [
+        ["PrimaryLeadership"],
+        ["Gatherer", "Transporter"],
+        ["HardSkull", "SpikyBack", "ElasticBelly"],
+        ["MarchSpeedup"],
+        ["SecondaryLeadership"],
+        ["TroopRecall"],
+        ["PackLight", "BestRest"],
+        ["PlierMouthpart", "ToxicAcid", "StoutLeg"],
+        ["TertiaryLeadership"]
+      ]
+    },
+    {
+      "type": "GuardianAnt",
+      "children": [
+        ["BruteForce", "ChitinArmor"],
+        ["HardSkullII"],
+        ["ReinforcedJoints", "AnthillDefender"],
+        ["ToughBody"],
+        ["BigBite", "SolidShell"],
+        ["Enhance"],
+        ["PrecisionHatch", "PrecisionMutation"],
+        ["AcidImmunity"],
+        ["GuardianAntMutationIII"],
+        ["GarrisonResolution", "SpikyShell"],
+        ["T-9GuardianAnt"]
+      ]
+    },
+    {
+      "type": "ShooterAnt",
+      "children": [
+        ["AcidAttack", "BacterialRibus"],
+        ["Blindside"],
+        ["HarshStrike", "FiberArmor"],
+        ["PrecisionTargeting"],
+        ["AcidEvolution", "PremiumFiber"],
+        ["Enhance"],
+        ["PrecisionHatch", "PrecisionMutation"],
+        ["SteadyTargeting"],
+        ["ShooterAntsMutationIII"],
+        ["ToughBattle", "VirulentAcid"],
+        ["T-9ShooterAnt"]
+      ]
+    },
+    {
+      "type": "CarrierAnt",
+      "children": [
+        ["FlexibleCombat", "StrongBelly"],
+        ["Crush"],
+        ["BellyStorage", "PackLightII"],
+        ["HeavyCrush"],
+        ["TeethBlade", "ToughBody"],
+        ["Enhance"],
+        ["PrecisionHatch", "PrecisionMutation"],
+        ["RippingCrush"],
+        ["CarrierAntMutationIII"],
+        ["FieldBattle", "SturdyBody"],
+        ["T-9CarrierAnt"]
+      ]
+    },
+    {
+      "type": "ZoneDevelop",
+      "children": [
+        ["ZoneGatherer", "ExtraResource"],
+        ["IntermediateRewards"],
+        ["PointBonusI"],
+        ["PackLight", "RapidHatch"],
+        ["ZoneTransporter", "MixedMedium"],
+        ["AdvancedRewards"],
+        ["GatheringPoints", "HuntingPoints"],
+        ["BuildingPoints", "SporePoints"],
+        ["EvolvingPoints", "ExpPoints"],
+        ["DefeatingPoints", "HatchingPoints"],
+        ["PointsBonusII"],
+        ["DoubleRewards"]
+      ]
+    },
+    { "type": "ZoneFight", "children": [] },
+    {
+      "type": "Insect",
+      "children": [
+        ["InsectNestExpansionI"],
+        ["FodderMasterI", "HatchMasterI"],
+        ["TermiteFarmExpansionI"],
+        ["RecyclingI", "FodderSavingI"],
+        ["InsectNestExpansionII"],
+        ["FodderMasterII", "HatchMasterII"],
+        ["TermiteFarmExpansionII"],
+        ["RecyclingII", "FodderSavingII"],
+        ["EfficientButchering"],
+        ["Hatcher"]
+      ]
+    },
+    {
+      "type": "AdvancedCombat",
+      "children": [
+        ["DodgeTricks"],
+        [
+          "GuardianAntCooperativeCombat",
+          "ShooterAntCooperativeCombat",
+          "CarrierAntCooperativeCombat"
+        ],
+        ["ColonyPioneer"],
+        ["FakeOdor"],
+        [
+          "GuardianAntSwiftCombat",
+          "ShooterAntSwiftCombat",
+          "CarrierAntSwiftCombat"
+        ]
+      ]
+    },
+    { "type": "AdvancedGuardianAntsHatch", "children": [] },
+    { "type": "AdvancedShooterAntsHatch", "children": [] },
+    { "type": "AdvancedCarrierAntsHatch", "children": [] }
+  ]
+}

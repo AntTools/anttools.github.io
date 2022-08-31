@@ -1,0 +1,16 @@
+{
+  "$schema": "http://json-schema.org/schema",
+  "type": "object",
+  "patternProperties": {
+    "^[A-Z\\d\\-_]*$": {
+      "type": ["string", "object"],
+      "patternProperties": {
+        "^[A-Z\\d\\-_]*$": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}
