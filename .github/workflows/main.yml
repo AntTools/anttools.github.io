@@ -39,7 +39,7 @@ jobs:
 
       - name: Validate JSON
         run: |
-          for data in data/*/**/*.json; do ajv -s data.schema.json -d $data; done
-          for data in lang/*.json; do ajv -s lang.schema.json -d $data; done
-          ajv -s structure.schema.json -d data/structure.json
+          for data in data/*/**/*.json; do ajv -s schemas/data.schema.json -d $data; done
+          for data in lang/*.json; do ajv -s schemas/lang.schema.json -d $data; done
+          ajv -s schemas/structure.schema.json -d data/structure.json
 
