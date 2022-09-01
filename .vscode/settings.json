@@ -2,15 +2,15 @@
   "json.schemas": [
     {
       "fileMatch": ["/data/structure.json"],
-      "url":"/structure.schema.json"
+      "url":"/schemas/structure.schema.json"
     },
     {
       "fileMatch": ["/data/*/**/*.json"],
-      "url": "/data.schema.json"
+      "url": "/schemas/data.schema.json"
     },
     {
       "fileMatch": ["/lang/*.json"],
-      "url": "/lang.schema.json"
+      "url": "/schemas/lang.schema.json"
     }
   ]
 }
