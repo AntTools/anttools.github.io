@@ -1,7 +1,7 @@
 {
   "name": "WorkerAntNest",
   "levels": [
-    { "rss": [0, 0, 0, 0, 0, 0], "time": 0, "power": 0 },
+    { "rss": [0, 40, 0, 0, 0, 0], "time": 0, "power": 0 },
     { "rss": [0, 78, 0, 0, 0, 0], "time": 0, "power": 3 },
     { "rss": [90, 220, 0, 0, 0, 0], "time": 5, "power": 5 },
     { "rss": [660, 0, 0, 120, 0, 340], "time": 80, "power": 7 },
