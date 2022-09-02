@@ -1,7 +1,20 @@
 {
   "name": "FatalAttack",
   "levels": [
-    null,
+    {
+      "rss": [0, 380000, 0, 240000, 420000, 200000],
+      "power": 943,
+      "time": 13942,
+      "extra": [{ "name": "CreatureRemains", "amount": 290 }],
+      "req": [
+        {
+          "domain": "Evolution",
+          "type": "ZoneFight",
+          "name": "AssembleColony",
+          "level": 1
+        }
+      ]
+    },
     null,
     null,
     null,

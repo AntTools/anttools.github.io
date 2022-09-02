@@ -1,7 +1,20 @@
 {
   "name": "PlayDead",
   "levels": [
-    null,
+    {
+      "rss": [0, 360000, 0, 260000, 400000, 220000],
+      "power": 930,
+      "time": 15093,
+      "extra": [{ "name": "CreatureRemains", "amount": 290 }],
+      "req": [
+        {
+          "domain": "Evolution",
+          "type": "ZoneFight",
+          "name": "AssembleColony",
+          "level": 1
+        }
+      ]
+    },
     null,
     null,
     null,
