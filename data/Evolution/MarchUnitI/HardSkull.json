@@ -1,7 +1,25 @@
 {
   "name": "HardSkull",
   "levels": [
-    { "rss": [0, 46000, 0, 22000, 30000, 8400], "power": 52, "time": 4560 },
+    {
+      "rss": [0, 46000, 0, 22000, 30000, 8400],
+      "power": 52,
+      "time": 4560,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 2
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "Gatherer",
+          "level": 1
+        }
+      ]
+    },
     { "rss": [0, 58000, 0, 26000, 36000, 9200], "power": 120, "time": 5220 },
     { "rss": [0, 66000, 0, 30000, 46000, 10000], "power": 191, "time": 6060 },
     { "rss": [0, 92000, 0, 40000, 58000, 12000], "power": 290, "time": 7260 },

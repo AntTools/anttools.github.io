@@ -1,4 +1,18 @@
 {
   "name": "CourageAward",
-  "levels": [{ "rss": [0, 0, 0, 0, 0, 2600], "power": 21, "time": 780 }]
+  "levels": [
+    {
+      "rss": [0, 0, 0, 0, 0, 2600],
+      "power": 21,
+      "time": 780,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    }
+  ]
 }

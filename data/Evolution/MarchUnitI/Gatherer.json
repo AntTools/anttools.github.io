@@ -1,7 +1,25 @@
 {
   "name": "Gatherer",
   "levels": [
-    { "rss": [0, 26000, 0, 0, 10000, 4200], "power": 30, "time": 2400 },
+    {
+      "rss": [0, 26000, 0, 0, 10000, 4200],
+      "power": 30,
+      "time": 2400,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "PrimaryLeadership",
+          "level": 1
+        }
+      ]
+    },
     { "rss": [0, 38000, 0, 0, 16000, 5800], "power": 75, "time": 3660 },
     { "rss": [0, 74000, 0, 0, 34000, 12000], "power": 147, "time": 6180 },
     { "rss": [0, 220000, 0, 0, 84000, 26000], "power": 298, "time": 11340 },

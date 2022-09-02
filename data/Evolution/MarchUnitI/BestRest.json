@@ -1,7 +1,25 @@
 {
   "name": "BestRest",
   "levels": [
-    { "rss": [0, 0, 0, 46000, 68000, 16000], "power": 118, "time": 9720 },
+    {
+      "rss": [0, 0, 0, 46000, 68000, 16000],
+      "power": 118,
+      "time": 9720,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 4
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "TroopRecall",
+          "level": 1
+        }
+      ]
+    },
     { "rss": [0, 0, 0, 66000, 100000, 24000], "power": 289, "time": 14040 },
     { "rss": [0, 0, 0, 120000, 220000, 40000], "power": 612, "time": 24540 },
     { "rss": [0, 0, 0, 380000, 480000, 88000], "power": 1197, "time": 46680 },

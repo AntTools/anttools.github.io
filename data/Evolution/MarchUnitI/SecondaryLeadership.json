@@ -1,6 +1,24 @@
 {
   "name": "SecondaryLeadership",
   "levels": [
-    { "rss": [0, 840000, 0, 0, 600000, 104000], "power": 599, "time": 46560 }
+    {
+      "rss": [0, 840000, 0, 0, 600000, 104000],
+      "power": 599,
+      "time": 46560,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 4
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "MarchSpeedup",
+          "level": 1
+        }
+      ]
+    }
   ]
 }

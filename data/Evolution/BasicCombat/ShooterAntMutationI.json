@@ -1,4 +1,30 @@
 {
   "name": "ShooterAntMutationI",
-  "levels": [{ "rss": [0, 8200, 0, 0, 5000, 1400], "power": 14, "time": 1140 }]
+  "levels": [
+    {
+      "rss": [0, 8200, 0, 0, 5000, 1400],
+      "power": 14,
+      "time": 1140,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 2
+        },
+        {
+          "domain": "Building",
+          "type": "Combat",
+          "name": "ShooterAntNest",
+          "level": 2
+        },
+        {
+          "domain": "Evolution",
+          "type": "BasicCombat",
+          "name": "CourageAward",
+          "level": 1
+        }
+      ]
+    }
+  ]
 }

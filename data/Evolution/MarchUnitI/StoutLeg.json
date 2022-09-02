@@ -1,7 +1,25 @@
 {
   "name": "StoutLeg",
   "levels": [
-    { "rss": [0, 0, 0, 52000, 78000, 22000], "power": 134, "time": 10920 },
+    {
+      "rss": [0, 0, 0, 52000, 78000, 22000],
+      "power": 134,
+      "time": 10920,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 4
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "BestRest",
+          "level": 1
+        }
+      ]
+    },
     { "rss": [0, 0, 0, 60000, 90000, 24000], "power": 296, "time": 12780 },
     { "rss": [0, 0, 0, 72000, 100000, 26000], "power": 474, "time": 15360 },
     { "rss": [0, 0, 0, 100000, 140000, 34000], "power": 722, "time": 18480 },

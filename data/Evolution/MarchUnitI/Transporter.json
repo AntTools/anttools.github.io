@@ -1,7 +1,25 @@
 {
   "name": "Transporter",
   "levels": [
-    { "rss": [0, 28000, 0, 0, 18000, 4400], "power": 30, "time": 2580 },
+    {
+      "rss": [0, 28000, 0, 0, 18000, 4400],
+      "power": 30,
+      "time": 2580,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "PrimaryLeadership",
+          "level": 1
+        }
+      ]
+    },
     { "rss": [0, 38000, 0, 0, 26000, 5800], "power": 75, "time": 3840 },
     { "rss": [0, 86000, 0, 0, 56000, 10000], "power": 147, "time": 5940 },
     { "rss": [0, 220000, 0, 0, 140000, 22000], "power": 298, "time": 11640 },

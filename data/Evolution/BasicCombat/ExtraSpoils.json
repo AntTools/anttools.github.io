@@ -1,7 +1,34 @@
 {
   "name": "ExtraSpoils",
   "levels": [
-    { "rss": [0, 0, 0, 680, 720, 1400], "power": 8, "time": 370 },
+    { "rss": [0, 0, 0, 680, 720, 1400], "power": 8, "time": 370,
+    "req": [
+      {
+        "domain": "Building",
+        "type": "Develop",
+        "name": "EvolutionFungi",
+        "level": 3
+      },
+      {
+        "domain": "Evolution",
+        "type": "BasicCombat",
+        "name": "GuardianAntMutationI",
+        "level": 1
+      },
+      {
+        "domain": "Evolution",
+        "type": "BasicCombat",
+        "name": "ShooterAntMutationI",
+        "level": 1
+      },
+      {
+        "domain": "Evolution",
+        "type": "BasicCombat",
+        "name": "CarrierAntMutationI",
+        "level": 1
+      }
+    ]
+   },
     { "rss": [0, 0, 0, 1000, 1000, 2000], "power": 11, "time": 600 },
     { "rss": [0, 0, 0, 2200, 2000, 3800], "power": 15, "time": 960 },
     { "rss": [0, 0, 0, 5600, 6000, 8600], "power": 32, "time": 1740 },

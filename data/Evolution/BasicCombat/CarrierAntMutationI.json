@@ -1,6 +1,30 @@
 {
   "name": "CarrierAntMutationI",
   "levels": [
-    { "rss": [0, 5000, 0, 3600, 7600, 800], "power": 12, "time": 1080 }
+    {
+      "rss": [0, 5000, 0, 3600, 7600, 800],
+      "power": 12,
+      "time": 1080,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 2
+        },
+        {
+          "domain": "Building",
+          "type": "Combat",
+          "name": "CarrierAntNest",
+          "level": 2
+        },
+        {
+          "domain": "Evolution",
+          "type": "BasicCombat",
+          "name": "CourageAward",
+          "level": 1
+        }
+      ]
+    }
   ]
 }

@@ -1,6 +1,36 @@
 {
   "name": "MarchSpeedup",
   "levels": [
-    { "rss": [0, 340000, 0, 140000, 0, 34000], "power": 212, "time": 17340 }
+    {
+      "rss": [0, 340000, 0, 140000, 0, 34000],
+      "power": 212,
+      "time": 17340,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 3
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "HardSkull",
+          "level": 5
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "SpikyBack",
+          "level": 5
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "ElasticBelly",
+          "level": 5
+        }
+      ]
+    }
   ]
 }

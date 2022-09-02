@@ -1,7 +1,25 @@
 {
   "name": "ElasticBelly",
   "levels": [
-    { "rss": [0, 48000, 0, 20000, 0, 8200], "power": 54, "time": 4500 },
+    {
+      "rss": [0, 48000, 0, 20000, 0, 8200],
+      "power": 54,
+      "time": 4500,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 2
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "Transporter",
+          "level": 1
+        }
+      ]
+    },
     { "rss": [0, 58000, 0, 24000, 0, 9000], "power": 114, "time": 5400 },
     { "rss": [0, 66000, 0, 30000, 0, 12000], "power": 192, "time": 6180 },
     { "rss": [0, 86000, 0, 38000, 0, 14000], "power": 288, "time": 7260 },

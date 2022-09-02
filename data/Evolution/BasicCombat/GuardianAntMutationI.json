@@ -1,4 +1,30 @@
 {
   "name": "GuardianAntMutationI",
-  "levels": [{ "rss": [4400, 4800, 0, 4200, 0, 0], "power": 14, "time": 1080 }]
+  "levels": [
+    {
+      "rss": [4400, 4800, 0, 4200, 0, 0],
+      "power": 14,
+      "time": 1080,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 2
+        },
+        {
+          "domain": "Building",
+          "type": "Combat",
+          "name": "GuardianAntNest",
+          "level": 2
+        },
+        {
+          "domain": "Evolution",
+          "type": "BasicCombat",
+          "name": "CourageAward",
+          "level": 1
+        }
+      ]
+    }
+  ]
 }

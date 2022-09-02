@@ -1,6 +1,24 @@
 {
   "name": "TroopRecall",
   "levels": [
-    { "rss": [0, 340000, 0, 140000, 0, 34000], "power": 216, "time": 17340 }
+    {
+      "rss": [0, 340000, 0, 140000, 0, 34000],
+      "power": 216,
+      "time": 17340,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 4
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "SecondaryLeadership",
+          "level": 1
+        }
+      ]
+    }
   ]
 }

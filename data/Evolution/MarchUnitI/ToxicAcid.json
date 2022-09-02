@@ -1,7 +1,31 @@
 {
   "name": "ToxicAcid",
   "levels": [
-    { "rss": [0, 120000, 0, 58000, 0, 24000], "power": 134, "time": 10920 },
+    {
+      "rss": [0, 120000, 0, 58000, 0, 24000],
+      "power": 134,
+      "time": 10920,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 4
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "PackLight",
+          "level": 1
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "BestRest",
+          "level": 1
+        }
+      ]
+    },
     { "rss": [0, 160000, 0, 66000, 0, 26000], "power": 286, "time": 12780 },
     { "rss": [0, 200000, 0, 84000, 0, 30000], "power": 487, "time": 15360 },
     { "rss": [0, 240000, 0, 120000, 0, 38000], "power": 704, "time": 18480 },

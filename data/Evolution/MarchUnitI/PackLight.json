@@ -1,7 +1,25 @@
 {
   "name": "PackLight",
   "levels": [
-    { "rss": [0, 0, 0, 34000, 52000, 14000], "power": 88, "time": 7380 },
+    {
+      "rss": [0, 0, 0, 34000, 52000, 14000],
+      "power": 88,
+      "time": 7380,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 4
+        },
+        {
+          "domain": "Evolution",
+          "type": "MarchUnitI",
+          "name": "TroopRecall",
+          "level": 1
+        }
+      ]
+    },
     { "rss": [0, 0, 0, 48000, 72000, 18000], "power": 226, "time": 10560 },
     { "rss": [0, 0, 0, 100000, 160000, 30000], "power": 456, "time": 18420 },
     { "rss": [0, 0, 0, 280000, 420000, 64000], "power": 893, "time": 34920 },
