@@ -311,7 +311,17 @@
         ["DoubleRewards"]
       ]
     },
-    { "type": "ZoneFight", "children": [] },
+    { "type": "ZoneFight", "children": [
+      ["DodgeAttackI"],
+      ["ZoneAttack","InvasionAttack"],
+      ["ZoneDefense","InvasionDefense"],
+      ["ZoneHealth","InvasionHealth"],
+      ["DodgeAttackII"],
+      ["Ambush","LongMarch"],
+      ["TerrainAdvantage", "HiddenAnthill"],
+      ["AssembleColony"],
+      ["PlayDead","FatalAttack"]
+    ] },
     {
       "type": "Insect",
       "children": [
