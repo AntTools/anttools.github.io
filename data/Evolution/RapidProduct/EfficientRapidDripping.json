@@ -19,10 +19,58 @@
         }
       ]
     },
-    { "rss": [5200, 0, 0, 0, 3000, 4400], "power": 21, "time": 1140 },
-    { "rss": [12000, 0, 0, 0, 6800, 8200], "power": 44, "time": 1980 },
-    { "rss": [30000, 0, 0, 0, 18000, 16000], "power": 88, "time": 3540 },
-    { "rss": [70000, 0, 0, 0, 44000, 40000], "power": 174, "time": 7320 }
+    {
+      "rss": [5200, 0, 0, 0, 3000, 4400],
+      "power": 21,
+      "time": 1140,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "rss": [12000, 0, 0, 0, 6800, 8200],
+      "power": 44,
+      "time": 1980,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "rss": [30000, 0, 0, 0, 18000, 16000],
+      "power": 88,
+      "time": 3540,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "rss": [70000, 0, 0, 0, 44000, 40000],
+      "power": 174,
+      "time": 7320,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    }
   ],
   "name": "EfficientRapidDripping"
 }

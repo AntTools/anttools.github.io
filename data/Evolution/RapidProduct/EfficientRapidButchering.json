@@ -19,10 +19,58 @@
         }
       ]
     },
-    { "rss": [0, 9000, 0, 2800, 0, 4400], "power": 23, "time": 1140 },
-    { "rss": [0, 18000, 0, 5200, 0, 7000], "power": 46, "time": 2040 },
-    { "rss": [0, 38000, 0, 12000, 0, 16000], "power": 86, "time": 3480 },
-    { "rss": [0, 120000, 0, 38000, 0, 34000], "power": 172, "time": 7020 }
+    {
+      "rss": [0, 9000, 0, 2800, 0, 4400],
+      "power": 23,
+      "time": 1140,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "rss": [0, 18000, 0, 5200, 0, 7000],
+      "power": 46,
+      "time": 2040,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "rss": [0, 38000, 0, 12000, 0, 16000],
+      "power": 86,
+      "time": 3480,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    },
+    {
+      "rss": [0, 120000, 0, 38000, 0, 34000],
+      "power": 172,
+      "time": 7020,
+      "req": [
+        {
+          "domain": "Building",
+          "type": "Develop",
+          "name": "EvolutionFungi",
+          "level": 1
+        }
+      ]
+    }
   ],
   "name": "EfficientRapidButchering"
 }
